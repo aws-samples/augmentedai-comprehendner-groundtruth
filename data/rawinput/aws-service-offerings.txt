@@ -1,0 +1,2221 @@
+AWS X-Ray Supports Analytics
+Use Analytics in X-Ray and delve into traces to quickly pinpoint issues that may effect your application and its underlying services.
+Amazon Sumerian Service Update on 2019-04-26
+Service improvements for Amazon Sumerian.
+Release: Amazon GameLift on 2019-04-25
+Realtime Servers provides ready-to-go, customizable game servers for mobile multiplayer games.
+AWS Budgets now Supports Instance Family Filtering for Reservation Coverage Alerts
+Starting today, you can use AWS Budgets to create Reservation Coverage budgets to monitor your Amazon EC2 reservations for a given instance family, and receive alerts when your reservation coverage falls below the threshold you define.
+Amazon Sumerian Service Update on 2019-04-08
+Service improvements for Amazon Sumerian.
+AWS X-Ray Supports AWS App Mesh Integration
+Use X-Ray to trace communications through AWS App Mesh's service mesh as it networks across multiple types of computer infrastructure.
+AWS X-Ray Groups: Deep Dive Dev Blog
+Use groups in X-Ray to create filtered service maps and record metrics for requests to a microservice, from a specific user, or for a recurring error case.
+AWS Announces the Ability to Consolidate Your Daily Credit Memos and Tax Credit Note Documents
+Amazon Web Services (AWS) is pleased to announce that you now have the option to have refunds and credits consolidated into a single credit memo instead of receiving multiple credit memos on the same day.
+AWS Deep Learning Containers for MXNet
+The AWS Deep Learning Containers for MXNet include containers for Training and Inference for CPU and GPU, optimized for performance and scale on AWS.
+AWS Deep Learning Containers for TensorFlow
+The AWS Deep Learning Containers for TensorFlow include containers for Training and Inference for CPU and GPU, optimized for performance and scale on AWS.
+AWS Deep Learning AMI (Amazon Linux 2) Version 22.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+AWS Deep Learning AMI (Amazon Linux) Version 22.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu) Version 22.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+AWS Deep Learning Base AMI (Amazon Linux 2) Version 17.0
+The AWS Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+AWS Deep Learning Base AMI (Amazon Linux) Version 17.0
+The AWS Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+AWS Deep Learning Base AMI (Ubuntu) Version 17.0
+The AWS Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Amazon Sumerian Service Update on 2019-03-11
+Service improvements for Amazon Sumerian.
+Release: Amazon GameLift on 2019-03-07
+Amazon GameLift-hosted instances can now securely access your other AWS services.
+AWS X-Ray SDK for Python 2019-02-26
+The AWS X-Ray SDK has been updated for Python 2.4.0.
+Amazon Sumerian Service Update on 2019-02-20
+Service improvements for Amazon Sumerian.
+Amazon EC2 Reserved Instance (RI) offering IDs Now Available on AWS Invoices
+You can now find Amazon EC2 Reserved Instance (RI) offering IDs on your AWS invoice, which enables you to reconcile your RI purchases with the RI offering IDs in your RI dashboard within the AWS Management Console.
+Deep Learning AMI (Ubuntu) Version 21.2
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Ubuntu) Version 15.2
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning AMI (Amazon Linux) Version 21.2
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Amazon Linux) Version 16.2
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 16.1
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning AMI (Amazon Linux) Version 21.1
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+AWS X-Ray SDK for Java version 2.2.1
+The AWS X-Ray SDK has been updated for Java 2.2.1.
+Release: Amazon GameLift on 2019-02-07
+Delete unused matchmaking rule sets.
+Introducing Normalized Units Information for Amazon EC2 Reservations in AWS Cost Explorer
+AWS Cost Explorer allows you to visualize and monitor your reservations both at a high level (e.g., cost savings associated with all Amazon EC2 reservations) or for highly-specific requests (e.g., reservation utilization associated with all regional Amazon EC2 reservations owned by a particular linked account). Starting today, you can access information about the normalized units associated with your reservations in AWS Cost Explorer, making it easier to understand how your reservations (including Size Flexible RIs) are applied to your instance usage.
+AWS X-Ray SDK for .Net/.Net Core version 2.5.0
+The AWS X-Ray SDK has been updated for .Net/.Net Core.
+Amazon Sumerian Service Update on 2019-01-29
+Service improvements for Amazon Sumerian.
+Deep Learning Base AMI (Amazon Linux) Version 16.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning Base AMI (Ubuntu) Version 15.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning AMI (Amazon Linux) Version 21.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu) Version 21.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Amazon Sumerian Service Update on 2019-01-03
+Service improvements for Amazon Sumerian.
+Release: Amazon GameLift on 2018-12-14
+New Server SDK version 3.3.0 is compatible with latest versions of Unity and Unreal game engines, Visual Studio 2017.
+Deep Learning Base AMI (Ubuntu) Version 14.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 15.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8, 9 and 10, and ready for your custom deep learning setup.
+Deep Learning AMI (Ubuntu) Version 20.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 20.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8, 9 and 10, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+AWS Price List API Now Supports Unified AWS Data Transfer Service Prices
+Starting today, AWS Price List API will present AWS Data Transfer prices under a single, unified service.
+Deep Learning Base AMI (Ubuntu) Version 13.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 14.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Ubuntu) Version 19.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 19.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Amazon Sumerian Service Update on 2018-11-20
+Localization and service improvements for Amazon Sumerian.
+AWS X-Ray Supports Groups
+Use groups in X-Ray to create filtered service maps and record metrics for requests to a microservice, from a specific user, or for a recurring error case.
+Enhanced Forecasting Now Available in AWS Cost Explorer
+Starting today, you can use AWS Cost Explorer’s improved forecasting engine to access more accurate spend forecasts that are tailored to your needs, regardless of your environment’s complexity.
+Amazon Sumerian Service Update on 2018-11-13
+New state machine action and service improvements for Amazon Sumerian.
+Deep Learning AMI (Amazon Linux) Version 18.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+AWS Cost & Usage Reports Add Amazon Athena Integration, Apache Parquet Output, and Report Overwrite
+Starting today, you can configure your AWS Cost & Usage Report to automatically integrate with Amazon Athena, making it easier and more cost effective than ever to directly access and query your cost and usage information.
+Announcing the New AWS Cost Explorer Console
+Today we are announcing the general availability of the new AWS Cost Explorer console. With brand new summary dashboards, automated identification of spend and usage trends, and a simplified user experience, the new Cost Explorer console is designed to help customers of all sizes, and levels of expertise, perform cost management activities.
+Deep Learning AMI (Ubuntu) Version 18.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Analyze Your Budget Performance Using New AWS Budgets History Functionality
+Starting today, you can access detailed information regarding your budgets’ performance from the recently-introduced budget detail pages within AWS Budgets.
+Monitor Your Amazon Elasticsearch Reserved Instance Utilization and Coverage Using AWS Budgets
+Amazon Elasticsearch Service Reserved Instances (RIs) offer significant discounts compared to standard On-Demand Instances. Starting today, you can use AWS Budgets to set custom utilization and coverage budgets based on your Amazon Elasticsearch RIs that alert you when you fall below the threshold you define.
+Access Reserved Instance Purchase Recommendations for All of Your Linked Accounts From a Central Location
+Starting today, payer accounts can access all of their linked accounts’ Reserved Instance (RI) purchase recommendations from a centralized view, making it easy to identify cost savings opportunities on a per-account basis.
+Deep Learning AMI (Ubuntu) Version 17.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 17.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Amazon Sumerian Service Update on 2018-10-22
+Service improvements for Amazon Sumerian.
+AWS Cost Explorer’s Reserved Instance (RI) Utilization Report now Includes Additional Cost Information
+Starting today, you can view new cost dimensions (e.g., total asset value, upfront fee, RI cost for unused hours, and more) in AWS Cost Explorer’s RI Utilization report, allowing you to better understand the cost of each reservation.
+Attention: AWS Elastic Beanstalk release notes moved on October 15, 2018
+Elastic Beanstalk release notes moved to a new location. Platform lists moved out of the developer guide and are in a new, separate location.
+Deep Learning Base AMI (Amazon Linux) Version 12.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Ubuntu) Version 11.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Amazon Linux) Version 16.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu) Version 16.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk console support for Network Load Balancer on October 10, 2018
+Elastic Beanstalk added support for configuring a Network Load Balancer and made Application Load Balancer the default Elastic Load Balancing load balancer type when you enable load balancing with the Elastic Beanstalk console.
+AWS Cost Explorer’s Reserved Instance Reports now Support Amazon Elasticsearch Reservations
+AWS Cost Explorer’s Reserved Instance (RI) Utilization and Coverage reports provide you with the ability to visualize your utilization and coverage trends both at a high level (e.g., utilization across all Amazon RDS reservations) or for highly-specific requests (e.g., utilization of all regional Amazon EC2 reservations owned by a particular linked account).
+AWS X-Ray Service Update on 2018-09-27
+AWS X-Ray is now available in the Europe (Paris) Region.
+Release: Amazon GameLift on 2018-09-27
+Amazon GameLift is now available in the China (Beijing) region.
+New Rate ID and Subscription ID Columns Available in the AWS Cost & Usage Reports
+Starting today, two new columns (Rate ID and Subscription ID) are available in the AWS Cost & Usage Reports.
+AWS X-Ray SDK for Go version 1.0.0-rc.6
+The AWS X-Ray SDK has been updated for Go.
+AWS X-Ray SDK for Ruby version 0.11.0
+The AWS X-Ray SDK has been updated for Ruby.
+Deep Learning AMI (Ubuntu) Version 15.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk Linux-based platform updates on September 25, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also includes two specific platform updates, a new worker environment tier version, and, for certain AWS Regions, support for additional Amazon EC2 instance types.
+Deep Learning AMI (Amazon Linux) Version 15.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk Windows Server platform update on September 24, 2018
+This release applies Windows September 2018 security updates for Windows to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds Amazon EC2 instance types in certain AWS Regions.
+2018-09-21 Amazon Sumerian Supports Private Scenes
+Restrict access to scene playback with AWS Amplify.
+AWS X-Ray Supports Amazon API Gateway Integration
+Instrument your API Gateway API stages with AWS X-Ray.
+Amazon Sumerian Service Update on 2018-09-07
+Service improvements for Amazon Sumerian.
+Amazon Sumerian Known Issues
+Known issues for Amazon Sumerian.
+Release: EB CLI 3.14.6 on September 11, 2018
+The AWS Elastic Beanstalk Command Line Interface (EB CLI) has a new version with bug fixes and new functionality.
+Deep Learning AMI (Ubuntu) Version 14.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 14.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Ubuntu) Version 10.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 11.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+AWS X-Ray Supports Sampling Rules
+Update to the AWS X-Ray API, console, SDKs, and daemon to support sampling rules.
+Release: AWS Elastic Beanstalk Windows Server platform update on August 27, 2018
+This release applies Windows August 2018 security updates for Windows to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds Amazon EC2 instance types in certain AWS Regions.
+Deep Learning Base AMI (Amazon Linux) Version 10.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Ubuntu) Version 9.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Amazon Linux) Version 13.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu) Version 13.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk Linux-based platform security updates on August 20, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations.
+Release: EB CLI 3.14.4 on August 16, 2018
+The AWS Elastic Beanstalk Command Line Interface (EB CLI) has a new version, which improves "eb platform" help text.
+Release: AWS Elastic Beanstalk console adds configuration change review on August 16, 2018
+Elastic Beanstalk added a configuration review page to the console, allowing customers to review a summary of their configuration edits before applying them.
+Release: AWS Elastic Beanstalk platform updates for Linux-based platforms on August 15, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also adds a new PHP configuration and, for certain AWS Regions, support for additional Amazon EC2 instance types.
+Amazon Sumerian Service Update on 2018-08-01
+Service improvements and known issues for Amazon Sumerian.
+Release: AWS Elastic Beanstalk platform updates for the Single Container Docker and Preconfigured Docker platforms on July 30, 2018
+This release applies security updates to the Single Container Docker and Preconfigured Docker platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also removes public support for previous Preconfigured Docker Glassfish configurations.
+Amazon Sumerian Service Update on 2018-06-29
+Service improvements and known issues for Amazon Sumerian.
+Amazon Sumerian Service Update on 2018-06-18
+Service improvements and known issues for Amazon Sumerian.
+Release: AWS Elastic Beanstalk support for enhanced health rule customization on July 25, 2018
+Elastic Beanstalk added the ability to ignore application HTTP 4xx errors when determining your environment's health.
+Release: AWS Elastic Beanstalk Windows Server platform update on July 25, 2018
+This release applies Windows July 2018 security updates for Windows to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds Amazon EC2 instance types in certain AWS Regions.
+Amazon Sumerian Service Update on 2018-05-15
+Service improvements and known issues for Amazon Sumerian.
+Deep Learning AMI (Ubuntu) Version 12.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 12.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Ubuntu) Version 8.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 9.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Announcing the New AWS Free Tier Widget on the AWS Billing Dashboard
+AWS Free Tier enables you to gain free, hands-on experience with the AWS platform, products, and services. AWS Budgets further provides Free Tier usage alerts that notify you when are forecasted to exceed your Free Tier usage limits.
+Release: EB CLI 3.14.3 on July 19, 2018
+The AWS Elastic Beanstalk Command Line Interface (EB CLI) has a new version with bug fixes and updates.
+Reserved Instance (RI) Purchase Recommendations for your Amazon Redshift, Amazon ElastiCache, and Amazon Elasticsearch Reservations using AWS Cost Explorer
+Starting today, you can access custom Reserved Instance (RI) purchase recommendations for your Amazon Redshift, Amazon ElastiCache, and Amazon Elasticsearch reservations via AWS Cost Explorer, in addition to viewing RI purchase recommendations for your Amazon EC2 and Amazon RDS reservations.
+Release: EB CLI 3.14.2 on July 5, 2018
+The AWS Elastic Beanstalk Command Line Interface (EB CLI) has a new version with bug fixes and minor updates.
+Release: AWS Elastic Beanstalk console support for Application Load Balancer access log capture on June 28, 2018
+Elastic Beanstalk added the ability to configure Application Load Balancer (ALB) access log capture to Amazon S3 using the Elastic Beanstalk console.
+Linked Accounts can now Access AWS Cost Explorer’s Reserved Instance (RI) Purchase Recommendations
+AWS Cost Explorer provides you with Reserved Instance (RI) purchase recommendations based on your total cross-account Amazon EC2 and Amazon RDS usage. Starting today, linked accounts can also access custom RI purchase recommendations for specific linked accounts directly via AWS Cost Explorer.
+Release: AWS Elastic Beanstalk Windows Server platform update on June 25, 2018
+This release applies Windows June 2018 security updates for Windows to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for .NET Core 2.1 and, for certain AWS Regions, additional Amazon EC2 instance types.
+Deep Learning Base AMI (Ubuntu) Version 7.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 8.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Ubuntu) Version 11.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 11.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk platform updates for Linux-based platforms on June 21, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also adds new Preconfigured Docker Glassfish configurations and, for certain AWS Regions, support for additional Amazon EC2 instance types.
+Automatically Refresh your AWS Cost & Usage Report when Charges Related to Previous Months are Detected
+The AWS Cost & Usage Report contains the most granular set of AWS cost and usage data available, including metadata about AWS services, pricing, reservations, and more. Starting today, you can customize your AWS Cost & Usage Report to automatically refresh when charges relating to previous months (e.g., refunds, credits, and AWS Support fees) are detected.
+Release: Amazon GameLift on 2018-06-14
+Amazon GameLift introduces new queue metrics for tracking FleetIQ effectiveness.
+Access your Reserved Instance (RI) Savings Information using AWS Cost Explorer’s RI Utilization Report
+Starting today, you can use AWS Cost Explorer to quickly identify the savings associated with your Amazon EC2, Amazon RDS, Amazon Redshift, and Amazon ElastiCache reservations.
+Deep Learning Base AMI (Ubuntu) Version 6.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 7.0
+The Deep Learning Base AMIs are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Ubuntu) Version 10.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 10.0
+The AWS Deep Learning AMIs are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk old console experience retirement on June 6, 2018
+Elastic Beanstalk retired the old console experience and migrated all customer accounts to the new console experience.
+Release: AWS Elastic Beanstalk platform update for the Java with Tomcat platform on May 24, 2018
+This release updates the Java with Tomcat platform for AWS Elastic Beanstalk. The release migrates the Apache proxy server on the platform to Apache 2.4 (with an option to stay on Apache 2.2), and adds a new configuration for Tomcat 8.5.
+AWS Linked Account Bills now Reflect an Account's Unblended Costs
+Starting today, customers with consolidated billing will receive linked account bills that show each account’s unblended rates and costs.
+AWS CloudFormation now Supports AWS Budgets as a Resource for CloudFormation Templates, Stacks, and StackSets
+You can now use AWS Budgets as a resource in your AWS CloudFormation templates, stacks, and StackSets.
+Release: AWS Elastic Beanstalk Windows Server platform update on May 18, 2018
+This release applies Windows May 2018 security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Deep Learning AMI (Ubuntu), Version 9.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 9.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk support for environment health log streaming to Amazon CloudWatch Logs on May 16, 2018
+Elastic Beanstalk added support for streaming environment health transition information to Amazon CloudWatch Logs.
+Release: AWS Elastic Beanstalk platform updates for the Java SE platform on May 15, 2018
+This release completes the May 11, 2018 Linux platform update, which excluded Java SE. The release applies security updates to the Java SE platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Release: AWS Elastic Beanstalk platform updates for Linux-based platforms on May 11, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, with the exception of Java SE, and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Release: Amazon GameLift on 2018-05-10
+Amazon GameLift introduces new auto-scaling features that make it easier to scale your resources more effectively and reduce hosting costs.
+Release: AWS Elastic Beanstalk migration to new console experience on May 3, 2018
+Elastic Beanstalk migrated all customer accounts to the new console experience.
+Deep Learning Base AMI (Ubuntu) Version 5.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 6.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning AMI (Ubuntu), Version 8.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 8.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk support for AWS CodeBuild in new regions on Apr 25, 2018
+Elastic Beanstalk added support for AWS CodeBuild in new regions.
+Release: AWS X-Ray Service Update on 2018-04-25
+You can now use an AWS Key Management Service customer master key (CMK) to encrypt X-Ray data at rest.
+Release: AWS Elastic Beanstalk support for AWS Config on Apr 24, 2018
+Elastic Beanstalk added support for AWS Config, an AWS resource tracking service.
+Release: AWS X-Ray SDK for Python on 2018-04-19
+The AWS X-Ray SDK has been updated for Python (1.0).
+Release: AWS Elastic Beanstalk Windows Server platform update on April 18, 2018
+This release applies Windows April 2018 security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also includes a reliability improvement and adds support for additional Amazon EC2 instance types in some regions.
+Deep Learning AMI (Ubuntu), Version 7.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 7.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Amazon Linux) Version 5.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Release: AWS Elastic Beanstalk console support for Application Load Balancer on April 9, 2018
+Elastic Beanstalk added support for configuring an Application Load Balancer, and improved the experience of configuring a Classic Load Balancer.
+Release: AWS Elastic Beanstalk platform updates for Linux-based platforms on April 2, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk (with the exception of Packer), and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Release: AWS X-Ray SDK for Python on 2018-03-28
+The AWS X-Ray SDK has been updated for Python (0.97) with support for aiohttp v3.
+Deep Learning AMI (Amazon Linux) Version 6.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu), Version 6.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning Base AMI (Amazon Linux) Version 4.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Ubuntu) Version 4.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Release: AWS Elastic Beanstalk platform updates for Docker platforms on March 22, 2018
+This release applies security updates to Docker platforms for AWS Elastic Beanstalk, and updates platform configurations.
+Release: AWS X-Ray SDK Update on 2018-03-20
+The AWS X-Ray SDK has been updated for .NET (2.2.0-beta).
+Release: AWS Elastic Beanstalk platform updates for Docker platforms on March 19, 2018
+This release completes the February 22, 2018 Linux platform update, which excluded Docker platforms. The release applies security updates to Docker platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for Docker platforms in more AWS Regions, and on additional Amazon EC2 instance types in some regions, and changes managed platform update future behavior.
+Release: AWS Elastic Beanstalk Windows Server platform update on March 16, 2018
+This release applies Windows March 2018 security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also includes a reliability improvement.
+Release: AWS Elastic Beanstalk API: DescribeAccountAttributes on March 16, 2018
+Elastic Beanstalk added a new API action, DescribeAccountAttributes. It returns attributes of the calling AWS account.
+Release: AWS CloudTrail on 2018-03-15
+This release supports making it easier to search CloudTrail log files with Athena.
+AWS X-Ray Daemon on 2018-03-08
+The AWS X-Ray daemon is now available on GitHub.
+Release: AWS X-Ray SDK for Python on 2018-03-01
+The AWS X-Ray SDK has been updated for Python (0.96) with support for SQLAlchemy, low-level HTTP clients, and PynamoDB.
+Deep Learning AMI with Source Code (CUDA 9, Amazon Linux) Version: 5.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Deep Learning AMI with Source Code (CUDA 9, Ubuntu) Version: 5.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Deep Learning AMI (Amazon Linux) Version 5.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu), Version 5.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Release: AWS Elastic Beanstalk platform updates for some Linux-based platforms on February 22, 2018
+This release applies security updates to some Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. Several platforms have specific updates. The release also adds support for additional Amazon EC2 instance types in some regions. Docker platforms aren't updated, and will be updated in a coming release.
+Release: AWS Elastic Beanstalk Windows Server platform update on February 15, 2018
+This release applies Windows February 2018 security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Release: Amazon GameLift on 2018-02-15
+Amazon GameLift introduces Spot Instances and FleetIQ, features that can significantly lower hosting costs while maintaining game server availability.
+AWS X-Ray SDK Update on 2018-02-08
+The AWS X-Ray SDK has been updated for Node.js (1.2.0).
+Deep Learning AMI (Ubuntu), Version 4.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Amazon Linux) Version 4.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI with Source Code (CUDA 9, Amazon Linux) Version: 4.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Deep Learning AMI with Source Code (CUDA 9, Ubuntu) Version: 4.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Release: EB CLI 3.12.2 on February 6, 2018
+The AWS Elastic Beanstalk Command Line Interface (EB CLI) has been updated with new features and with bug fixes.
+Release: AWS X-Ray SDK Update on 2018-02-05
+The AWS X-Ray SDK has been updated for .NET (2.0.0-beta).
+Release: AWS Elastic Beanstalk Java SE platform update on January 31, 2018
+This release updates the Java SE platform for AWS Elastic Beanstalk. It fixes a bug, applies security updates, and updates the platform's configurations.
+Release: Amazon GameLift on 2018-02-08
+This release extends FlexMatch matchmaking to add new players to existing matched games (match backfill), and adds game session search support for custom data.
+Deep Learning AMI with Source Code (CUDA 9, Ubuntu) Version: 3.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Deep Learning AMI with Source Code (CUDA 9, Amazon Linux) Version: 3.0
+The Deep Learning AMIs are prebuilt with CUDA9, and frameworks that support CUDA 9, which includes Apache MXNet, TensorFlow, Caffe2 and PyTorch. It also contains the Anaconda Platform (Python2 and Python3).
+Deep Learning AMI (Amazon Linux) Version 3.0
+The AWS Deep Learning AMI are prebuilt with CUDA 8 and 9, and several deep learning frameworks. The DLAMI uses the Anaconda Platform with both Python2 and Python3 to easily switch between frameworks.
+Deep Learning AMI (Ubuntu), Version 3.0
+Deep Learning Base AMI (Ubuntu) Version 3.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Deep Learning Base AMI (Amazon Linux) Version 3.0
+The Deep Learning Base AMI are prebuilt with CUDA 8 and 9 and ready for your custom deep learning setup.
+Release: AWS Elastic Beanstalk Linux-based platform updates on January 19, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. The release also migrates a number of instance types to HVM virtualization.
+Release: AWS X-Ray SDK Update on 2018-01-15
+The AWS X-Ray SDK has been updated for Go (1.0.0-rc.1).
+Release: AWS Elastic Beanstalk Windows Server platform update on January 11, 2018
+This release applies Windows security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations.
+Release: AWS Elastic Beanstalk Linux-based platform security updates on January 10, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations.
+Release: AWS X-Ray SDK for Ruby (beta) on January 9, 2018
+The AWS X-Ray SDK for Ruby 0.9 is now available.
+Release: AWS Elastic Beanstalk Linux-based platform security updates on January 6, 2018
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations.
+Release: AWS X-Ray SDK for Java Update on January 5, 2018
+The AWS X-Ray SDK for Java has been updated to version 1.3.0.
+Release: AWS Elastic Beanstalk support for CloudWatch Logs streaming on Windows on December 20, 2017
+Elastic Beanstalk added support for streaming log files to CloudWatch Logs on the Windows platform.
+Release: AWS CloudTrail on 2017-12-12
+This release supports extending the amount of account activity that is available in CloudTrail event history to 90 days.
+Release: AWS X-Ray SDK for Python on 2017-12-12
+The AWS X-Ray SDK has been updated for Python (0.95) with support for aiobotocore and asynchronous functions.
+Release: AWS Elastic Beanstalk Linux-based platform updates on December 20, 2017
+This release applies security updates to Linux-based platforms for AWS Elastic Beanstalk, and updates platform configurations. The release adds support for Additional Amazon EC2 instance types in some regions.
+Release: AWS Elastic Beanstalk Windows Server platform update on December 19, 2017
+This release applies Windows December 2017 security updates to the Windows Server platform for AWS Elastic Beanstalk, and updates platform configurations. The release also adds support for additional Amazon EC2 instance types in some regions.
+Release: Amazon Simple Email Service on 2017-12-07
+You can now customize the emails that Amazon SES sends when attempting to verify new email addresses.
+Release: AWS X-Ray SDK for Java GitHub Repository
+The AWS X-Ray SDK is now available on GitHub.
+Release: AWS CloudTrail on 2017-11-30
+This release of AWS CloudTrail supports logging data events for AWS Lambda functions.
+Release: AWS Elastic Beanstalk Multicontainer Docker platform update on December 4, 2017
+This update completes the Linux-based platform updates that we released on November 14, 2017. The update adds platform configuration changes, all relevant security updates, and new instance types to the Multicontainer Docker platform, which wasn't updated on November 14.
+Release: AWS X-Ray SDK Update on 2017-11-20
+The AWS X-Ray SDK has been updated for Java (1.2.1).
+Release: AWS Elastic Beanstalk Java with Tomcat platform update on November 20, 2017
+This release updates the Java with Tomcat platform for AWS Elastic Beanstalk with a bug fix.
+Release: AWS X-Ray SDK for Python on 2017-11-15
+The AWS X-Ray SDK has been updated for Python (0.94) with support for aiohttp.
+Release: Amazon Simple Email Service on 2017-11-15
+Amazon SES now includes two new features that can help to protect your sender reputation: email pausing and configuration set reputation metrics. Additionally, the number of configuration sets you can create has been increased.
+Release: AWS Elastic Beanstalk Windows Server platform updates on November 20, 2017
+We updated Windows Server platforms for AWS Elastic Beanstalk with Windows November 2017 security updates, ASP.NET Core security updates, and other bug fixes. We added support for Additional Amazon EC2 instance types in some regions.
+Release: AWS X-Ray SDK for Node.js on 2017-11-09
+The AWS X-Ray SDK has been updated for Node.js (1.1.5).
+Release: EB CLI 3.12.1 on November 9, 2017
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with a new feature and with bug fixes.
+Release: AWS Elastic Beanstalk Linux-based platform updates on November 14, 2017
+We updated most Linux-based platforms for AWS Elastic Beanstalk with security updates and another bug fix, and updated platform configurations. We added support for Additional Amazon EC2 instance types in some regions. The Multicontainer Docker platform isn't updated yet, and its update is coming soon.
+Release: Amazon Simple Email Service on 2017-10-27
+This release adds DMARC verdicts to incoming emails, and adds support for DMARC authentication reporting.
+Release: AWS Elastic Beanstalk platform update for Packer on October 30, 2017
+The Packer platform for AWS Elastic Beanstalk is updated with a bug fix and platform configuration changes.
+Release: AWS Elastic Beanstalk Windows Server platform updates on October 27, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with security updates for .NET Core.
+Release: Amazon DynamoDB on 2017-07-18
+Amazon DynamoDB no longer publishes release notes
+Release: Amazon DynamoDB on 2017-06-14
+Auto Scaling for DynamoDB
+Release: Amazon DynamoDB on 2017-04-19
+Amazon DynamoDB Accelerator (DAX)
+Release: Amazon DynamoDB on 2017-02-27
+Amazon DynamoDB Time-to-Live (TTL) enables you to automatically delete expired items
+Release: Amazon DynamoDB on 2017-01-19
+You can now add tags to your Amazon DynamoDB tables
+Release: Amazon DynamoDB on 2016-03-01
+DescribeLimits API for DynamoDB
+Release: AWS X-Ray SDK for .NET on 2017-10-17
+The AWS X-Ray SDK has been updated for .NET (1.1.2).
+Release: AWS Elastic Beanstalk platform updates for Ruby and Go on October 19, 2017
+Ruby and Go platforms for AWS Elastic Beanstalk are updated with security fixes and platform configuration changes.
+Release: Amazon Simple Email Service on 2017-10-11
+This release adds the ability to send personalized emails.
+Release: AWS X-Ray SDK for Python on 2017-10-10
+The AWS X-Ray SDK has been updated for Python (0.93).
+Release: AWS Elastic Beanstalk Windows Server platform updates on October 15, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with Windows October 2017 security updates.
+Release: Elastic Beanstalk Support for Updating Environment Tags on October 13, 2017
+AWS Elastic Beanstalk now supports updating tags applied to an environment.
+Release: Elastic Beanstalk Support for Service-Linked Roles on September 27, 2017
+AWS Elastic Beanstalk now supports associating service-linked roles with an environment.
+Release: Network Load Balancer Support and EB CLI Update on September 26, 2017
+AWS Elastic Beanstalk now supports Network Load Balancer (NLB), and the Elastic Beanstalk Command Line Interface (EB CLI) has been updated to version 3.11.0.
+Release: AWS Elastic Beanstalk Linux-based platform updates on September 25, 2017
+Linux-based platforms for AWS Elastic Beanstalk are updated with security and other fixes and platform configuration changes.
+Release: AWS CloudTrail on 2017-09-21
+This release of AWS CloudTrail supports configuring data event logging for all Amazon S3 buckets in your AWS account.
+Release: AWS Elastic Beanstalk Windows Server platform updates and more supported instance types on September 15, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with Windows September 2017 security updates and other configuration changes. Additional Amazon EC2 instance types are supported in some regions.
+Release: Amazon Simple Email Service on 2017-09-18
+This release adds support for using custom domains to track open and click events.
+Release: AWS X-Ray Console Update on 2017-09-15
+The console now shows additional information about traces to help you optimize your search.
+Release: AWS X-Ray SDK for Python on 2017-09-14
+The AWS X-Ray SDK has been updated for Python (0.92.2).
+Release: AWS X-Ray SDK for Python on 2017-09-08
+The AWS X-Ray SDK has been updated for Python (0.92.1).
+Release: AWS X-Ray SDK Update on 2017-09-01
+The AWS X-Ray SDK has been updated for Node.js (1.1.4).
+Release: Amazon GameLift on 2017-08-31
+This release extends GameLift suppport to five additional regions, adds the R4 instance type, and enables VPC peering.
+Release: AWS Elastic Beanstalk Linux-based platform updates on Aug 30, 2017
+The AWS Elastic Beanstalk Go platform is updated with support for running the AWS X-Ray daemon. Linux-based platforms for AWS Elastic Beanstalk are updated with bug fixes and a few platform configuration changes.
+Release: AWS X-Ray SDK for Python on 2017-08-30
+The AWS X-Ray SDK has been updated for Python (0.92).
+Release: AWS Elastic Beanstalk Windows Server platform update with .NET Core 2.0 on August 28, 2017
+Windows Server platform configurations for AWS Elastic Beanstalk have been updated with .NET Core 2.0.
+Release: Amazon Simple Email Service on 2017-08-24
+This release adds a dashboard that you can use to track and manage your sender reputation.
+Release: EB CLI 3.10.6 on Aug 21, 2017
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with bug fixes.
+Release: Amazon Simple Email Service on 2017-08-17
+This release adds support for dedicated IP pools.
+Release: Amazon GameLift on 2017-08-16
+Amazon GameLift announces FlexMatch, a new player matchmaking platform for multiplayer games.
+Release: AWS Elastic Beanstalk Linux-based platform updates on Aug 14, 2017
+The AWS Elastic Beanstalk Python platform is updated with support for running the AWS X-Ray daemon. All AWS Elastic Beanstalk Linux-based platforms are updated with a security fix, new instance types, and other bug fixes.
+Release: AWS CloudTrail on 2017-08-14
+This release of AWS CloudTrail supports CloudTrail being enabled by default for all AWS accounts.
+Release: AWS X-Ray SDK Update on 2017-08-11
+The AWS X-Ray SDK for Java has been updated to version 1.2.0.
+Release: AWS Elastic Beanstalk Windows Server platform updates on August 10, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with Windows August 2017 security updates.
+Release: AWS X-Ray SDK for Node.js and Python on 2017-08-09
+The AWS X-Ray SDK for Node.js version 1.1.3 and the AWS X-Ray SDK for Python 0.91.1 are now available.
+Release: Amazon Simple Email Service on 2017-08-01
+This release adds support for tracking of open and click events.
+Release: AWS CloudTrail on 2017-07-31
+This release of AWS CloudTrail supports downloading events.
+Release: EB CLI 3.10.5 on July 28, 2017
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with a few improvements.
+Release: AWS Elastic Beanstalk Windows Server platform updates on July 24, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with a bug fix and new instance type support.
+Release: AWS Elastic Beanstalk Linux-based platform updates on July 20, 2017
+Linux-based platforms for AWS Elastic Beanstalk are updated with a new Go language version and updated platform configurations.
+Release: AWS CloudTrail on 2017-07-19
+This release of AWS CloudTrail supports logging Amazon S3 object level API operations in Canada (Central) and EU (London).
+Release: AWS X-Ray SDK for Go on 2017-08-30
+The AWS X-Ray SDK for Go is now available in beta.
+Release: AWS X-Ray SDK for Python (beta) on 2017-08-08
+The AWS X-Ray SDK for Python 0.9 is now available.
+Release: Amazon Redshift on 2017-07-17
+Amazon Redshift no longer publishes release notes.
+Release: AWS Elastic Beanstalk Windows Server platform updates on July 17, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with Microsoft Windows July 2017 Security Updates and other configuration changes.
+Release: Amazon RDS on 2017-07-17
+Amazon RDS no longer publishes release notes
+Release: Amazon Aurora on 2017-07-17
+Amazon Aurora no longer publishes release notes
+Release: Amazon Redshift on 2017-07-07
+This release makes Amazon Redshift Spectrum easier to use and more flexible. Also, we added an option to UNLOAD to smaller files.
+Release: AWS Elastic Beanstalk Node.js platform update on July 15, 2017
+The Node.js platform for AWS Elastic Beanstalk is updated with a security fix, and platform configurations are updated.
+Release: EB CLI 3.10.4 on 2017-07-14
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with a bug fix.
+Release: AWS Config on 2017-07-06
+With this release, AWS Config supports the AWS CloudFormation stack resource type and a new managed rule.
+Release: AWS Config on 2017-07-05
+With this release, AWS Config supports additional regions for AWS Config Rules.
+Release: AWS CodeBuild on 2017-06-29
+AWS CodeBuild is now available in the US West (N. California), EU (London), and Canada (Central) regions.
+Release: AWS X-Ray SDK Update on 2017-06-29
+The AWS X-Ray SDK has been updated for Java (1.1.2) and Node.js (1.1.2).
+Release: Amazon GameLift on 2017-06-29
+This release contains additional help with debugging fleet creation processes and other improvements.
+Release: AWS CodeBuild on 2017-06-27
+AWS CodeBuild now supports alternate build spec file names and locations.
+Release: AWS CodeBuild on 2017-06-22
+AWS CodeBuild now provides built-in support for build notifications.
+Release: EB CLI 3.10.3 on 2017-06-20
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with a few improvements.
+Release: AWS CloudTrail on 2017-06-27
+This release of AWS CloudTrail supports Amazon CloudWatch Events for the CloudTrail API activity history feature.
+Release: AWS Elastic Beanstalk Linux-based platform updates on June 27, 2017
+Linux-based platforms for AWS Elastic Beanstalk are updated with a security fix, new instance types, and updated platform configurations.
+Release: AWS Elastic Beanstalk support for Windows Server 2016 on June 26, 2017
+AWS Elastic Beanstalk added support for Windows Server 2016 platforms.
+Release: Amazon RDS on 2017-06-16
+This release adds support for Amazon Aurora in the EU (Frankfurt) AWS Region.
+Release: AWS Database Migration Service on 2017-06-16
+This release adds support to the AWS Schema Conversion Tool for filtering the data extracted from your data warehouse.
+Release: AWS Elastic Beanstalk Windows Server platform updates on June 15, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated with Microsoft Windows security updates and minor fixes.
+Release: AWS CloudTrail on 2017-06-14
+This release of AWS CloudTrail includes support for AWS CodeStar.
+Release: AWS X-Ray console update on 2017-06-14
+You can now view request latency histograms in the AWS X-Ray console.
+Release: AWS X-Ray SDK Update on 2017-04-19
+The AWS X-Ray SDK has been updated for Java (1.1.0), Node.js (1.1.0), and .NET (1.1.0).
+Release: AWS X-Ray Service Update on 2017-04-19
+AWS X-Ray is now generally available.
+Release: Amazon RDS on 2017-06-12
+This release adds support for quickly and cost-effectively copying all of your databases in an Amazon Aurora DB cluster.
+Release: EB CLI 3.10.2 on 2017-06-06
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with a few improvements.
+Release: Amazon Rekognition on 2017-06-08
+This release introduces Amazon Rekognition support for recognizing celebrities in images.
+Release: AWS Config on 2017-06-08
+With this release, AWS Config Rules is available in the AWS GovCloud (US) Region.
+Release: AWS CodeBuild on 2017-06-07
+AWS CodeBuild now supports fetching source code for GitHub pull requests.
+Release: Amazon RDS on 2017-06-07
+Amazon RDS now supports Microsoft SQL Server 2016 SP1 CU2.
+Release: AWS CloudTrail on 2017-06-01
+This release of AWS CloudTrail supports updates to the CloudTrail Processing Library.
+Release: Amazon RDS on 2017-06-01
+This release adds support for saving data from an Amazon Aurora DB cluster into text files in an Amazon Simple Storage Service bucket.
+Release: AWS Config on 2017-06-01
+With this release, AWS Config supports the Amazon CloudWatch alarm resource type and three new managed rules.
+Release: Amazon Redshift on 2017-05-25
+This release gives you the choice to run ANALYZE on only the columns that are likely to be used as query predicates. In addition, we added an AWS Identity and Access Management (IAM) policy condition for Amazon Redshift Spectrum and enabled Redshift Spectrum recursive scans.
+Release: Apache MXNet on AWS on 2017-05-16
+Apache MXNet on AWS
+Release: Amazon RDS on 2017-05-23
+This release adds support for the April 2017 Oracle Database Patch Set Update (PSU).
+Release: AWS Elastic Beanstalk Linux-based platform updates on May 19, 2017
+Linux-based platforms for AWS Elastic Beanstalk are updated to Amazon Linux AMI 2017.03.
+Release: AWS CloudTrail on 2017-05-19
+This release of AWS CloudTrail includes support for Amazon Athena.
+AWS CLI release notes have moved to GitHub
+The AWS CLI now tracks releases in a change log in GitHub.
+Release: AWS X-Ray SDK Update on 2017-05-17
+The AWS X-Ray SDK has been updated for Java (1.1.1) and Node.js (1.1.1).
+Release: Amazon GameLift on 2017-05-16
+This release adds the ability to use Amazon CloudWatch with Amazon GameLift metrics and makes improvements to automatic scaling..
+Release: AWS Elastic Beanstalk Windows Server platform updates on May 16, 2017
+Windows Server platforms for AWS Elastic Beanstalk have been updated.
+Release: AWS X-Ray Service Update on 2017-05-16
+You can now distinguish between nodes with the same name, but different types, in filter expressions.
+Release: AWS Database Migration Service on 2017-05-11
+This release adds support to the AWS Schema Conversion Tool for additional data warehouse conversions, and for copying data directly into Amazon Redshift.
+Release: AWS CodeBuild on 2017-05-09
+The AWS CodeBuild build specification version has been updated to 0.2.
+Release: AWS X-Ray Service Update on 2017-05-09
+AWS X-Ray is now available in the Europe (London) Region and the Canada (Central) Region.
+Release: AWS CloudTrail on 2017-05-09
+This release of AWS CloudTrail includes support for sending data events to Amazon CloudWatch Logs.
+AWS Elastic Beanstalk retiring some EB CLI 2.6 functionality
+Elastic Beanstalk is retiring some EB CLI 2.6 functionality on October 12, 2017.
+Release: AWS CloudTrail on 2017-05-02
+This release of AWS CloudTrail includes support for AWS Marketplace Metering Service.
+Release: AWS CloudTrail on 2017-04-28
+This release of AWS CloudTrail includes support for Amazon QuickSight.
+Release: AWS Elastic Beanstalk Windows Server platform updates on May 4, 2017
+Updates to the AWS Elastic Beanstalk's Windows Server platforms.
+Release: AWS Elastic Beanstalk Platform Updates on May 2, 2017
+Java with Tomcat platforms for AWS Elastic Beanstalk have been updated.
+Release: AWS Elastic Beanstalk Console Update on May 2, 2017
+You can now manage the lifecycle of of the versions of your Elastic Beanstalk applications using the Elastic Beanstalk console.
+Release: AWS Storage Gateway on 2017-05-02
+This release makes AWS Storage Gateway available in the Asia Pacific (Mumbai) region
+Release: AWS Config on 2017-04-27
+With this release, AWS Config rules are supported in the Asia Pacific (Mumbai) Region.
+Release: Amazon Redshift on 2017-04-19
+This release introduces Amazon Redshift Spectrum. Now you can run Amazon Redshift queries directly against data in Amazon S3.
+Amazon Redshift on 2017-04-21
+This release of Amazon Redshift introduces query monitoring rules and adds the APPROXIMATE PERCENTILE_DISC aggregate function.
+Release: Amazon RDS on 2017-04-24
+This release of Amazon Relational Database Service (Amazon RDS) introduces support for IAM database authentication.
+Release: AWS Elastic Beanstalk Platform Updates on April 21, 2017
+New Packer version for AWS Elastic Beanstalk platforms.
+Release: AWS Database Migration Service on 2017-04-18
+This release adds support to the AWS Schema Conversion Tool for additional data warehouse conversions, and expands support for data migration agents.
+Release: Amazon ElastiCache on 2017-04-04
+This release of the Amazon ElastiCache added customer testing of Automatic Failover on Redis Multi-AZ enabled clusters.
+Release: Amazon ElastiCache on 2017-03-15
+This release of Amazon ElastiCache added support for Redis Backup and Restore with Cluster Resizing
+Release: Amazon Rekognition on 2017-04-19
+This release introduces Amazon Rekognition support for determining if an image has explicit or suggestive content.
+Release: AWS CodeStar on 2017-04-19
+This release adds support for quickly developing, building, and deploying software applications on AWS.
+Release: AWS Lambda on 2017-4-18
+This release introduces support for tagging of Lambda functions and Lamda support for the Python 3.6 runtime.
+Release: AWS X-Ray SDK Update on 2017-04-12
+The AWS X-Ray SDK has been updated for .NET (1.0.6-beta).
+Release: Amazon GameLift on 2017-04-11
+Release: AWS CloudTrail on 2017-04-11
+This release of AWS CloudTrail supports an updated console experience for creating a new trail.
+Release: AWS Config on 2017-04-11
+With this release, AWS Config supports an updated console experience for adding AWS Config managed rules.
+Release: Amazon ElastiCache on 2017-04-10
+This release of the Amazon ElastiCache adds support for Memcached version 1.4.34.
+Release: AWS Database Migration Service on 2017-04-10
+This release adds support for Amazon DynamoDB as a target and MongoDB as a source.
+Release: AWS Elastic Beanstalk on 2017-04-05
+Linux-based platforms for AWS Elastic Beanstalk have been updated.
+Release: AWS Elastic Beanstalk on 2017-04-04
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS X-Ray SDK Update on 2017-03-30
+The AWS X-Ray SDK has been updated for Java (1.0.6-beta), Node.js (1.0.6-beta), and .NET (1.0.5-beta).
+Release: EB CLI 3.10.1 on 2017-03-29
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to version 3.10.1, which consists of bug fixes.
+AWS Database Migration Service on 2017-03-28
+This release adds support for using Amazon S3 as a migration target.
+Release: AWS Elastic Beanstalk on 2017-03-27
+Release: AWS Lambda on 2017-3-22
+This release introduces support for Node.js 6.10 and an increase to the Concurrent Execution limit
+Release: AWS SDK for Android 2.4.0
+This release adds improvements and fixes bugs for Amazon S3, Amazon Lex, Amazon Pinpoint, Amazon Cognito Identity, Amazon API Gateway, and AWS IoT.
+Release: Amazon RDS on 2017-03-21
+This release adds the January 2017 Oracle Database Patch Set Update (PSU).
+Release: AWS CodeBuild on 2017-03-21
+AWS CodeBuild is now available in the Asia Pacific (Tokyo), Asia Pacific (Singapore), Asia Pacific (Sydney), and EU (Frankfurt) regions.
+Release: AWS Lambda on 2017-3-17
+This release introduces an update to the Lambda runtime.
+Release: Amazon RDS on 2017-03-09
+This release adds support for Amazon Aurora in the US West (N. California) AWS Region, and also support for the db.t2.small instance class for some versions of Aurora.
+Release: Amazon Simple Email Service on 2017-03-09
+This release adds support for dedicated IP address automatic warm-up.
+Release: AWS Elastic Beanstalk Platform Updates on March 8, 2017
+New EC2 I3 instances; Linux updates for AWS Elastic Beanstalk platforms.
+Release: AWS CodeBuild on 2017-03-08
+AWS CodePipeline now supports Test actions that use AWS CodeBuild.
+Release: Amazon RDS on 2017-03-07
+This release adds support for copying DB cluster snapshots across regions, copying DB cluster snapshots between accounts in the same region, sharing encrypted snapshots between accounts in the same region, and replicating encrypted DB clusters across regions.
+Release: AWS Mobile SDK for iOS 2.5.2
+This version of the SDK adds support for AWS KMS and multiple bug fixes.
+Release: AWS X-Ray SDK Update on 2017-03-06
+The AWS X-Ray SDK has been updated for Java (1.0.5-beta), Node.js (1.0.5-beta), and .NET (1.0.4-beta). This update requires changes to how you define custom sampling rules.
+Release: AWS Lambda on 2017-03-3
+This release introduces updates to the Lambda runtime
+Release: AWS Lambda on 2017-02-15
+This release introduces updates to the Lambda runtime
+Release: AWS Lambda on 2016-12-20
+This release introduces updates to the Lambda runtime
+Release: AWS CloudTrail on 2017-02-27
+This release of AWS CloudTrail includes support for AWS Organizations.
+Release: Amazon RDS on 2017-02-27
+This release adds support for forcing connections to your DB instance running Microsoft SQL Server to use Secure Sockets Layer (SSL). It also adds support for 15 additional time zones.
+Release: AWS Elastic Beanstalk Service Update on February 22, 2017
+You can now create and manage your own custom Elastic Beanstalk platforms based on your application and configuration requirements. Custom Platform provides you with greater control over the AMI, metadata, and configuration options.
+Release: Amazon GameLift on 2017-02-21
+Amazon GameLift now supports games built with multiple game engines, and provides new matchmaking functionality that minimizes player latency.
+Release: AWS Config on 2017-02-21
+With this release, AWS Config adds seven new managed rules.
+Release: Amazon RDS on 2017-02-17
+This release adds support for shrinking the tempdb database on DB instances running Microsoft SQL Server.
+Release: AWS Database Migration Service on 2017-02-16
+This release adds support for data migration agents that you can manage from the AWS Schema Conversion Tool.
+Release: AWS Config on 2017-02-16
+With this release, AWS Config adds support for a new test mode for the PutEvaluations API.
+Release: AWS Mobile SDK for iOS 2.5.1
+Bug fixes for name collision and bad memory access.
+Release: AWS Elastic Beanstalk Legacy Platform EOL on 2017-2-13
+Elastic Beanstalk is retiring legacy platforms, which means you will no longer be able to view or manage legacy Elastic Beanstalk environment running legacy platforms as of August 1, 2017.
+Release: AWS X-Ray SDK Update on 2017-02-13
+The AWS X-Ray SDK for Java has been updated to version 1.0.4-beta.
+Release: AWS CloudTrail on 2017-02-10
+This release of AWS CloudTrail supports an updated console experience for logging management and data events.
+Release: Amazon Rekognition on 2017-02-09
+This release introduces Amazon Rekognition console support for aggregated Amazon CloudWatch metrics for Rekognition, and for returning the estimated age range of detected faces.
+Release: AWS Elastic Beanstalk Platform Updates on February 9, 2017
+Linux updates for AWS Elastic Beanstalk Java SE and Java with Tomcat platforms.
+Release: Amazon Redshift on 2017-02-10
+This release of Amazon Redshift adds support for Amazon S3 server-side encryption with AWS KMS and introduces new authorization options. In addition, you can now create up to 9,900 schemas per cluster.
+Release: EB CLI 3.9.1 on 2017-02-08
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to version 3.9.1, which includes some bug fixes.
+Release: AWS Storage Gateway on 2017-02-08
+This release introduces support for deploying file gateway in an Amazon EC2 instance
+Release: AWS Elastic Beanstalk Platform Updates on January 28, 2017
+Linux platform updates for AWS Elastic Beanstalk.
+Release: AWS SDK for Android 2.3.9
+This release adds improvements and fixes bugs for Amazon Cognito, Amazon Kinesis Firehose, Amazon Kinesis Streams, Amazon Pinpoint, and Amazon Lex
+AWS X-Ray SDK Update on 2017-01-24
+The AWS X-Ray SDK has been updated to version 1.0.2. This version requires changes to how you initialize filters to instrument incoming HTTP requests.
+AWS Elastic Beanstalk Extensions Support Multiple Conditions on 2017-01-27
+You can now configure multiple conditions in an AWS Elastic Beanstalk extension file to modify the runtime environment of your Elastic Beanstalk instances.
+Release: AWS Mobile SDK for iOS 2.5.0
+Improved Swift 3 support and retired deprecated APIs in this SDK release.
+Release: AWS CloudTrail on 2017-01-26
+This release of AWS CloudTrail supports the API activity history for AWS CodeCommit, Amazon GameLift, and AWS Managed Services.
+Release: Amazon RDS on 2017-01-26
+This release adds support for custom Domain Name Server (DNS) servers to resolve DNS names used in outbound network access on Oracle DB instances.
+AWS CodeDeploy Release Notes
+This release of AWS CodeDeploy introduces support for blue/green deployments.
+Release: AWS CodeCommit on 2017-01-24
+This update of AWS CodeCommit supports viewing the difference between commits.
+Release: AWS CloudTrail on 2017-01-24
+This release of AWS CloudTrail supports integration with the AWS Personal Health Dashboard.
+Release: Amazon RDS on 2017-01-23
+This release adds support for creating an encrypted Read Replica in another region.
+Release: Amazon RDS on 2017-01-20
+This release adds support for upgrading a MySQL DB snapshot from MySQL 5.1 to MySQL 5.5.
+Release: Amazon Redshift on 2017-01-19
+This release of Amazon Redshift adds PERCENTILE_CONT and MEDIAN aggregate functions and introduces ZSTD compression encoding.
+AWS SDK for Java 1.11.82
+This release includes updates to Amazon EC2.
+AWS SDK for Java 1.11.81
+This release includes service updates to Amazon Relational Database Service (RDS).
+Release: AWS CodeBuild on 2017-01-19
+AWS CodeBuild is now available in the US East (Ohio) region.
+Release: AWS CodeCommit on 2016-12-22
+This update of AWS CodeCommit supports authenticating over HTTPS with Git credentials.
+Release: Amazon RDS on 2017-01-18
+This release adds support for using replication to migrate from an Amazon RDS MySQL DB instance to an Amazon Aurora DB cluster.
+AWS SDK for Java 1.11.80
+This release includes service updates to Amazon DynamoDB and Amazon Route 53.
+Release: AWS Storage Gateway on 2017-17-01
+This release introduces support for CA Arcserve r17.0
+AWS SDK for Java 1.11.79
+This release includes a new service AWS Cost and Usage Report and updates to AWS Config.
+Release: AWS Elastic Beanstalk on 2017-01-16
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+AWS SDK for Java 1.11.78
+This release includes fixes for Amazon S3.
+Release: AWS CloudTrail on 2017-01-12
+This release of AWS CloudTrail supports filtering by Event source in the CloudTrail console.
+Release: AWS CloudTrail on 2017-01-11
+This release of AWS CloudTrail includes support for AWS CodeCommit.
+AWS SDK for Java 1.11.77
+This release includes a bug fix to Amazon S3.
+AWS SDK for Java 1.11.76
+This release includes service updates for AWS Config and AWS Marketplace Commerce Analytics.
+Release: Amazon RDS on 2016-12-29
+This release adds support for MariaDB version 10.1.19.
+AWS SDK for Java 1.11.75
+This release includes updates for Amazon EC2 Container Service and AWS CodeDeploy.
+AWS SDK for Java 1.11.74
+This release includes documentation updates only
+Release: AWS CloudTrail on 2016-12-23
+This release of AWS CloudTrail includes support for Amazon Lightsail.
+Release: AWS Elastic Beanstalk Service Updates on 2016-12-22
+AWS Elastic Beanstalk update for December 2016, including support for streaming CloudWatch logs and application version management.
+Release: Amazon QuickSight on 2016-12-22
+This release adds support for Amazon Athena as a data source.
+AWS SDK for Java 1.11.73
+This release includes updates for Amazon API Gateway, AWS Identity and Access Management (IAM) and AWS Elastic Beanstalk.
+AWS SDK for Java 1.11.72
+This release includes updates for Amazon EC2 Container Registry and Amazon Relational Database Service (RDS).
+Release: AWS Config on 2016-12-21
+With this release, AWS Config expands Config rules support to several AWS Regions.
+AWS SDK for Java 1.11.70
+This release includes updates for Amazon Kinesis Firehose and AWS Storage Gateway.
+Release: Amazon RDS on 2016-12-20
+This release adds support for copying an encrypted DB snapshot to another region.
+Release: AWS Database Migration Service on 2016-12-20
+This release updates the AWS Schema Conversion Tool to add task and endpoint integration with the AWS Database Migration Service (AWS DMS). It also adds support for storing AWS profiles, and using Amazon Aurora with PostgreSQL compatibility as a target database.
+Release: Amazon ElastiCache on 2016-12-20
+This release of Amazon ElastiCache adds support for Memcached version 1.4.33.
+AWS SDK for Java 1.11.69
+This release includes updates for AWS Application Discovery Service and Amazon Cognito Identity.
+Release: AWS SDK for Android 2.3.8
+This release contains general improvements for the SDK.
+Release: AWS Elastic Beanstalk on 2016-12-19
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Sample AWS Elastic Beanstalk configuration files for Amazon EFS
+Use Elastic Beanstalk configuration files to mount an Amazon EFS file system and share files between the instances in your environment.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-16
+You can now rebuild terminated AWS Elastic Beanstalk environments to create a new environment with the same environment ID, application version, and resource configuration.
+Release: Amazon QuickSight on 2016-12-16
+This is the first public release of Amazon QuickSight Enterprise edition. Enterprise edition offers encryption at rest and integration with Microsoft AD directories in AWS Directory Service.
+AWS SDK for Java 1.11.68
+This release includes service updates for Amazon Simple Systems Manager & Amazon Cognito Identity Provider as well as new regions for Cognito
+AWS SDK for Java 1.11.66
+This release includes service updates for Amazon Relational Database Service (RDS), Amazon CloudFront & AWS WAF
+AWS SDK for Java 1.11.60
+This release includes service updates for AWS Cloud Formation, Amazon Glacier and Amazon S3
+AWS SDK for Java 1.11.53
+This release includes a service update for CloudFormation
+AWS SDK for Java 1.11.67
+This release includes a new service 'AWS Batch' and service updates for CloudWatch Logs, AWS Marketplace Commerce Analytics and AWS Database Migration Service
+AWS CodePipeline Release Notes
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Tokyo).
+Release: EB CLI 3.8.8 on 2016-12-13
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support the Europe (London) Region.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-13
+AWS Elastic Beanstalk is now available in the Europe (London) Region.
+Release: AWS Config on 2016-12-13
+With this release, AWS Config is available in the EU (London) Region.
+Release: AWS CloudTrail on 2016-12-13
+This release of AWS CloudTrail includes support for the EU (London) Region.
+Release: AWS CodeDeploy on 2016-12-13
+This update of AWS CodeDeploy adds support for one additional AWS region: EU (London).
+Release: Amazon ElastiCache on 2016-12-13
+This release of Amazon ElastiCache introduces support for the EU West (London) Region.
+Release: AWS SDK for Android 2.3.7
+Introducing new AWS EUWest2 - Europe(London) region and Amazon Rekognition. This release also contains general improvements for the SDK.
+Release: AWS Mobile SDK for iOS 2.4.16
+Introducing new AWS EUWest2 - Europe(London) region and Amazon Rekognition. This release also contains general improvements for the SDK.
+Release: Amazon S3 on 2016-12-13
+This release introduces the EU (London) Region.
+Release: Amazon Glacier on 2016-12-13
+Amazon Glacier is now available in the EU (London) Region.
+Release: AWS Elastic Beanstalk on 2016-12-12
+Docker configurations for AWS Elastic Beanstalk have been updated to version 2.2.2.
+Release: Amazon RDS on 2016-12-12
+This release adds the October 2016 Oracle Database Patch Set Update (PSU).
+Release: AWS Elastic Beanstalk on 2016-12-09
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available with support for AWS X-Ray.
+Release: Amazon Glacier on 2016-12-08
+Amazon Glacier is now available in the Canada (Central) Region.
+Release: Amazon Redshift on 2016-12-08
+This release of Amazon Redshift introduces UDF user logging.
+Release: EB CLI 3.8.6 on 2016-12-08
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support the Canada (Central) Region.
+Release: Amazon S3 on 2016-12-08
+This release introduces the Canada (Central) Region.
+Release: AWS SDK for Android 2.3.6
+Introducing new AWS CACentral1 - Canada(Central) region and general improvements for the SDK.
+Release: AWS Mobile SDK for iOS 2.4.15
+Introducing new AWS CACentral1 - Canada(Central) region and general improvements for the SDK.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-08
+AWS Elastic Beanstalk is now available in the Canada (Central) Region.
+Release: AWS CloudTrail on 2016-12-08
+This release of AWS CloudTrail includes support for the Canada (Central) Region.
+Release: AWS Config on 2016-12-08
+With this release, AWS Config is available in the Canada (Central) Region.
+Release: AWS Storage Gateway on 2016-12-08
+This release makes AWS Storage Gateway available in the Canada (Central) region.
+Release: AWS CodeDeploy on 2016-12-08
+This update of AWS CodeDeploy adds support for one additional AWS region: Canada (Central).
+AWS SDK for Java 1.11.65
+This release includes service updates to AWS Config.
+Release: AWS CodePipeline on 2016-12-07
+This update of AWS CodePipeline adds support for one additional AWS region: South America (São Paulo).
+Release: AWS Config on 2016-12-07
+With this release, you can record configuration changes for Amazon Redshift resources.
+AWS SDK for Java 1.11.64
+This release includes service updates to AWS Config and Amazon EC2.
+Release: Amazon GameLift on 2016-12-06
+This release expands GameLift suppport to five additional regions.
+Release: AWS Database Migration Service on 2016-12-06
+This release adds SSL support for Oracle endpoints.
+Release: AWS CodeBuild on 2016-12-05
+This is the initial public release of the AWS CodeBuild Jenkins Plugin.
+Release: Amazon RDS on 2016-12-05
+This release adds support for outbound network access on Oracle DB instances.
+Release: EB CLI 3.8.5 on 2016-12-1
+The Elastic Beanstalk Command Line Interface (EB CLI) has added support for AWS CodeBuild.
+Release: AWS CodePipeline on 2016-12-01
+This update of AWS CodePipeline adds support for adding an AWS CodeBuild build project to a pipeline.
+Release: AWS Config on 2016-12-01
+With this release, you can record software configuration changes on your managed instances with support for managed instance inventory.
+Release: AWS SDK for Java 1.11.63
+This release includes service updates to Amazon Simple Systems Manager (SSM), AWS Elastic Beanstalk, Amazon API Gateway, Amazon EC2, AWS Lambda, and AWS Direct Connect. Also included are eight new services: AWS X-Ray, AWS Step Functions, Amazon AppStream, AWS Health APIs and Notifications, AWS OpsWorks for Chef Automate, AWS CodeBuild, AWS Shield, and Amazon Pinpoint.
+Release: AWS CodeBuild on 2016-12-01
+This is the initial public release of AWS CodeBuild.
+Release: AWS CloudTrail on 2016-12-01
+This release of AWS CloudTrail includes support for AWS CodeBuild, AWS Health, and AWS Step Functions.
+Release: AWS Mobile SDK for iOS 2.4.14
+Introducing Amazon Pinpoint.
+Release: AWS SDK for Android 2.3.5
+Introducing Amazon Pinpoint.
+Preview Release: Amazon Lex on 2016-11-30
+This is an invitation only preview release of Amazon Lex.
+Release: Amazon Polly on 2016-11-30
+This is the initial release of Amazon Polly.
+Release: Amazon Rekognition on 2016-11-30
+This is the initial release of Amazon Rekognition.
+Release: AWS SDK for Java 1.11.62
+This release includes service updates to Amazon Import/Export Snowball. Also included are three new services: Amazon Lightsail, Amazon Polly and Amazon Rekognition.
+Release: AWS CloudTrail on 2016-11-30
+This release of AWS CloudTrail includes support for Amazon Polly.
+Release: AWS Mobile SDK for iOS 2.4.13
+Introducing Amazon Lex and Amazon Polly. This release also includes some bug fixes and general service improvements.
+Release: AWS SDK for Android 2.3.4
+Introducing Amazon Lex and Amazon Polly.
+Release: AWS Storage Gateway on 2016-29-11
+This release introduces support for file gateway.
+Release: Amazon S3 on 2016-11-29
+Amazon S3 now supports object tagging and introduces new storage management tools and an new user interface for the console.
+Release: AWS SDK for Java 1.11.61
+This release includes service updates to Amazon S3.
+Release: Amazon RDS on 2016-11-23
+This release adds support for Amazon Aurora running on the db.t2.medium DB instance class.
+Release: AWS Elastic Beanstalk Service Updates on 2016-11-23
+AWS Elastic Beanstalk service update for November 2016.
+Release: Amazon S3 on 2016-11-21
+Amazon S3 now supports additional Amazon Glacier restore options. CloudTrail now supports logging Amazon S3 object level API operations.
+Release: Amazon Glacier on 2016-11-21
+Amazon Glacier now supports additional archive retrieval options.
+AWS SDK for Java 1.11.59
+This release includes service updates to Amazon ECS and AWS CloudTrail.
+AWS SDK for Java 1.11.57
+This release includes updates for AWS Marketplace Metering Service, Amazon SQS, Amazon CloudWatch and Amazon API Gateway.
+AWS SDK for Java 1.11.58
+This release includes updates for Amazon GameLift, AWS Lambda, Amazon Elastic MapReduce, Amazon Elastic Transcoder and Application AutoScaling
+Release: AWS CloudTrail on 2016-11-21
+This release of AWS CloudTrail supports configuring your trail with event selectors and logging for Amazon S3 object level API operations.
+Release: Amazon Simple Email Service on 2016-11-21
+This release adds support for dedicated IP addresses.
+Release: EB CLI 3.8.4 on 2016-11-17
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated.
+Release: Amazon GameLift on 2016-11-18
+This release adds new support for remotely accessing GameLift instances.
+Release: Amazon Elastic Transcoder on 2016-11-17
+You can now use Amazon Elastic Transcoder to stitch together parts of multiple files into one output file.
+Release: AWS CodePipeline on 2016-11-17
+This update of AWS CodePipeline adds support for one additional AWS region: EU (Frankfurt).
+Release: AWS Database Migration Service on 2016-11-17
+This release adds support for Greenplum Database, Netezza, and Redshift optimization to the AWS Schema Conversion Tool.
+Release: Amazon Simple Queue Service on 2016-11-17
+Amazon Simple Queue Service (Amazon SQS) lets you create FIFO (First-In-First-Out) queues.
+AWS SDK for Java 1.11.56
+This releases includes updates for Amazon Route 53 and AWS Service Catalog
+Release: AWS Elastic Beanstalk on 2016-11-16
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS CloudTrail on 2016-11-16
+This release of AWS CloudTrail supports additional values for the userIdentity element.
+AWS SDK for Java 1.11.55
+This releases include updates for Amazon ElastiCache, AWS Directory Service and Amazon Kinesis
+AWS SDK for Java 1.11.54
+This releases includes an update for Amazon Cognito Identity Provider
+Release: Amazon QuickSight on 2016-11-15
+This is the first public release of Amazon QuickSight, a new business analytics service for building visualizations, performing ad hoc analysis, and quickly getting business insights from your data.
+Release: AWS Elastic Beanstalk on 2016-11-11
+Additional Tomcat 8 on Java 8 platform configuration for AWS Elastic Beanstalk, version 2.3.1.
+Three new sample applications are available for AWS Elastic Beanstalk
+New sample applications on GitHub show the use of Spring, Drupal, and WordPress with AWS Elastic Beanstalk.
+Release: Amazon RDS on 2016-11-11
+This release of Amazon Relational Database Service (Amazon RDS) introduces support for PostgreSQL version 9.6.1.
+Release: AWS Mobile SDK for iOS 2.4.12
+Added support for max key storage size in Amazon Mobile Analytics & other bug fixes
+Release: Amazon Redshift on 2016-11-10
+This release of Amazon Redshift adds connection limits for users and for databases and support for UTF-8 multibyte characters in object names. In addition, ANALYZE COMPRESSION now reports an estimate of potential reduction. Also, a COPY command enhancement enables you to reduce vacuum times.
+Release: Amazon RDS on 2016-11-04
+This release adds support for Microsoft SQL Server 2016.
+AWS SDK for Java 1.11.52
+The release includes a service update to AWS Direct Connect.
+Release: AWS CodePipeline on 2016-11-03
+This update of AWS CodePipeline adds support for AWS CloudFormation as a deployment action.
+AWS SDK for Java 1.11.51
+This release includes a service update for Amazon Simple Email Service and several bug fixes.
+Release: AWS Storage Gateway on 2016-11-02
+This release introduces support for HPE Data Protector Manager 9.x.
+Release: Amazon RDS on 2016-11-02
+This release adds support for upgrading Oracle DB instances from 11g to 12c.
+Release: Amazon Simple Email Service on 2016-11-02
+This release adds support for fine-grained email sending metrics.
+AWS SDK for Java 1.11.50
+This release includes a service update for AWS Cloud Formation.
+Release: Amazon ElastiCache on 2016-11-01
+his release of Amazon ElastiCache adds support for M4 and R3 node types in Sao Paul and Beijing
+AWS SDK for Java 1.11.49
+This release includes multiple bug fixes to AWS SDK for Java.
+Release: AWS Billing and Cost Management on 2016-10-20
+This is a feature update for AWS Billing and Cost Management.
+Release: Amazon Redshift on 2016-10-27
+This release of Amazon Redshift adds automatic compression for CTAS tables.
+Release: AWS Elastic Beanstalk on 2016-10-28
+Linux-based platforms for AWS Elastic Beanstalk have been updated.
+Release: AWS CodePipeline on 2016-10-26
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Sydney).
+AWS SDK for Java 1.11.48
+This release includes region updates to AWS CodePipeline.
+Release: Amazon RDS on 2016-10-25
+This release adds support for Microsoft SQL Server 2014 Enterprise Edition.
+AWS SDK for Java 1.11.47
+This release introduces a new service, AWS Server Migration Service.
+Release: AWS Config on 2016-10-24
+With this release, AWS Config is available in the China (Beijing) Region.
+Release: AWS Elastic Beanstalk on 2016-10-21
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Java 1.11.46
+This release introduces a new service, AWS Budgets.
+Release: AWS CodePipeline on 2016-10-20
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Singapore).
+Release: AWS SDK for Java 1.11.45
+This release includes service updates to Amazon Kinesis Analytics, AWS Config, Amazon CloudFront, AWS IoT, and Amazon Relational Database Service (RDS).
+Release: AWS SDK for Java 1.11.44
+This release includes a new region launch in Ohio and service updates to Amazon Route 53.
+Release: Amazon RDS on 2016-10-18
+This release adds support for Amazon Aurora integration with Amazon S3 and AWS Lambda.
+Release: AWS Config on 2016-10-18
+With this release, you can record configuration changes for Amazon S3 buckets.
+Release: EB CLI 3.8.3 on 2016-10-17
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support deployments with AWS CodeCommit.
+Amazon ElastiCache on October 17, 2016
+This release of Amazon ElastiCache adds support for US East (Ohio) Region.
+Release: AWS Elastic Beanstalk Service Update on 2016-10-17
+AWS Elastic Beanstalk supports pagination for calls to DescribeApplicationVersions.
+Release: Amazon Elasticsearch Service on 2016-10-17
+This is a feature update for Amazon Elasticsearch Service.
+Latest Version: 2015-01-01
+Release: AWS Config on 2016-10-17
+With this release, AWS Config is available in the US East (Ohio) Region.
+Release: AWS CloudTrail on 2016-10-17
+This release of AWS CloudTrail includes support for the US East (Ohio) Region.
+Release: AWS SDK for Android 2.3.3
+This release adds support for us-east-2/CMH region in SDK
+Release: AWS Mobile SDK for iOS 2.4.11
+Introducing new AWS USEast2 (Ohio) region and general improvements for the SDK.
+Release: AWS Storage Gateway on 2016-10-17
+This release makes AWS Storage Gateway available in the US East (Ohio) region.
+AWS SDK for Java 1.11.43
+This release includes service updates for Amazon GameLift, AWS Elastic Beanstalk and AWS Certificate Manager
+Release: AWS Elastic Beanstalk Service Update on 2016-10-13
+AWS Elastic Beanstalk has been updated with support for deployments from AWS CodeCommit.
+Release: Amazon GameLift on 2016-10-13
+This release adds new resource protection features.
+AWS SDK for Java 1.11.42
+This release includes service updates for Amazon ElastiCache and Amazon EC2 Container Registry
+Release: Amazon ElastiCache on October 12, 2016
+This release of Amazon ElastiCache adds support for Redis Cluster.
+Release: AWS Mobile SDK for iOS 2.4.10
+Add API Gateway custom invoker method and Cognito Identity Provider admin create users feature.
+Release: AWS SDK for Android 2.3.2
+This release adds support for Admin Create Users feature for Amazon Cognito Identity Provider.
+AWS SDK for Java 1.11.40
+This release fixes an issue in the LambdaInvokerFactory utility.
+Release: AWS Config on 2016-10-04
+With this release, AWS Config adds eight new managed rules.
+Release: AWS Database Migration Service on 2016-10-04
+This release adds support for mapping rules and schema copy to the AWS Schema Conversion Tool.
+Release: AWS Elastic Beanstalk Management Console Update on 2016-10-03
+A new version of the AWS Elastic Beanstalk management console is now available for preview.
+Release: Amazon Elastic Transcoder on 2016-09-30
+This release provides support to a new AWS Region, ap-south-1.
+Release: Amazon RDS on 2016-09-29
+This release adds support for accessing the tempdb database on Microsoft SQL Server DB instances.
+Release: Amazon Redshift on 2016-09-29
+This release of Amazon Redshift adds a time stamp with time zone (TIMESTAMPTZ) data type.
+Release: Amazon RDS on 2016-09-28
+This release adds support for Oracle Label Security in the AWS GovCloud (US) region.
+Release: AWS Elastic Beanstalk on 2016-09-26
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available in all Elastic Beanstalk regions except Asia Pacific (Mumbai) and Asia Pacific (Seoul).
+Release: AWS Billing and Cost Management on 2016-09-19
+This is a feature update for AWS Billing and Cost Management.
+AWS SDK for Java 1.11.37
+This release includes a service update for API Gateway and updates to DynamoDB mapper
+Release: AWS CodePipeline on 2016-09-22
+This update of AWS CodePipeline adds support for displaying the version identifier of a custom action in the console
+Release: AWS SDK for Go v1.4.12
+This release updates the API for Amazon API Gateway
+Release: AWS Elastic Beanstalk on 2016-09-15
+The Multicontainer Docker platform for AWS Elastic Beanstalk has been updated to version 2.1.7.
+AWS SDK for Java 1.11.36
+This release includes service updates to Amazon Relational Database Service (RDS), Amazon Elastic MapReduce, Redshift, CloudHSM & CodeDeploy as well as Java SDK enhancements for DynamoDB.
+Release: AWS SDK for Go v1.4.11
+This release updates the APIs for Amazon Redshift, Amazon Relational Database Service, Amazon Elastic MapReduce, AWS CodeDeploy, and SDK updates.
+Release: Amazon RDS on 2016-09-20
+This release adds the July 2016 Oracle Database Patch Set Update (PSU), and support for Oracle UTL_MAIL.
+Release: Amazon Elastic Transcoder on 2016-09-20
+This is a feature release for Amazon Elastic Transcoder.
+Release: AWS Mobile SDK for iOS 2.4.9
+Adds support for custom endpoints; fixes Amazon S3 bug which disabled usage with CocoaPods
+Release: Amazon RDS on 2016-09-19
+This release adds support for local time zones on Microsoft SQL Server DB instances.
+AWS SDK for Java 1.11.35
+This release includes service updates to Amazon Relational Database Service and AWS IoT.
+AWS SDK for Java 1.11.34
+This release includes service updates to AWS Service Catalog.
+Release: AWS CodeDeploy on 2016-09-15
+This update of AWS CodeDeploy adds integration with Amazon CloudWatch alarms and introduces support for automatically rolling back a deployment when there is a failure or other specified conditions are met.
+Release: Amazon Redshift on 2016-09-15
+This release of Amazon Redshift introduces Enhanced VPC Routing.
+Release: AWS SDK for Go v1.4.10
+This release updates the API for AWS IoT and Amazon Relational Database Service
+Release: AWS CodeCommit on 2016-09-14
+This update of AWS CodeCommit supports viewing a graph of commits from the console.
+Release: AWS Database Migration Service on 2016-09-14
+This release adds support for change data capture for Amazon RDS PostgreSQL DB instances as a source.
+Release: Amazon RDS on 2016-09-14
+This release adds support for PostgreSQL versions 9.5.4, 9.4.9, and 9.3.14, and also support for PostgreSQL logical replication and event triggers.
+Release: AWS SDK for Go v1.4.9
+This release updates the API for AWS Service Catalog, and Amazon Elastic Compute Cloud.
+Release: AWS Mobile SDK for iOS 2.4.8
+Adds Cognito Identity Provider custom authentication handlers and general SDK improvements.
+Release: AWS CodeDeploy on 2016-09-09
+This update of AWS CodeDeploy adds integration with AWS CloudWatch Events.
+Release: AWS SDK for Android 2.3.1
+The release adds support for generic invoker for API Gateway and fixes a bug related to StandardCharset
+Release: AWS SDK for Java 1.11.33
+This release includes service updates to Amazon CloudFront.
+Release: Amazon RDS on 2016-09-08
+This release adds the reader endpoint to Amazon Aurora DB clusters.
+Release: AWS SDK for Go v1.4.8
+This release updates the API for Amazon CloudFront
+Release: AWS CodePipeline on 2016-09-08
+This update of AWS CodePipeline adds support for viewing details about code changes currently flowing through your software release pipeline, such as commit IDs, check-in comments, and time since check-in.
+Release: Amazon RDS on 2016-09-06
+This release adds support for getting the status of possible source regions for Read Replicas or DB snapshots by using the Amazon RDS API.
+Release: AWS SDK for Java 1.11.32
+This release includes service updates to AWS CodePipeline, Amazon Relational Database Service (RDS) and Amazon Simple Notification Service (SNS).
+Release: AWS SDK for Go v1.4.7
+This release updates the APIs for Amazon Simple Notification Service, Amazon Relational Database Service, and SDK bug fixes.
+New tutorial for AWS Elastic Beanstalk: Node.js with DynamoDB
+The new tutorial for AWS Elastic Beanstalk shows how use DynamoDB in a Node.js application with the AWS SDK for JavaScript in Node.js, and how to configure an application to either create a new DynamoDB table or use an existing one.
+Release: AWS Elastic Beanstalk on 2016-09-06
+The PHP platform for AWS Elastic Beanstalk has been updated to version 2.1.7.
+Release: AWS Config on 2016-09-06
+With this release, you can view API activity logged by AWS CloudTrail in the AWS Config timeline.
+AWS SDK for Java 1.11.31
+This release contains new features for Application Auto Scaling, Cognito Identity Provider, Amazon GameLift, and Amazon RDS.
+Release: AWS SDK for Go v1.4.6
+This release updates the API for Amazon GameLift, Amazon Cognito Identity Provider, Application Auto Scaling
+Release: Amazon RDS on 2016-09-01
+This release adds support for the Oracle Enterprise Manager Cloud Control.
+Release: Amazon GameLift on 2016-09-01
+This release adds support for Linux game servers.
+AWS Storage Gateway Console Redesign
+This release introduces a new and simplified design for the AWS Storage Gateway Management Console
+Release: Amazon Simple Queue Service on 2016-08-31
+Amazon Simple Queue Service (Amazon SQS) now allows you to use the ApproximateAgeOfOldestMessage CloudWatch metric to find the approximate age of the oldest non-deleted message in the queue.
+AWS SDK for Ruby Release Notes on GitHub
+Please see our GitHub changelog for release notes related to each SDK update.
+AWS SDK for Java 1.11.30
+This release includes service updates to Amazon Route 53, Amazon CloudFront, AWS CodePipeline and AWS Lambda.
+Release: AWS SDK for Go v1.4.5
+This release updates the API for Amazon CloudFront, Amazon Route 53, Amazon EC2 Container Service, and AWS CodePipeline
+Release: AWS Elastic Beanstalk Service Update on 2016-08-30
+AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Lambda on 2016-08-29
+This release introduces the Asia Pacific (Seoul) Region.
+Release: AWS Elastic Beanstalk on 2016-08-24
+Tomcat platform configurations for AWS Elastic Beanstalk have been updated to version 2.2.0.
+AWS SDK for Java 1.11.29
+This release includes service updates to Amazon Relational Database Service (RDS).
+Release: Amazon RDS on 2016-08-23
+This release adds support to get an Amazon Resource Name (ARN) for a resource.
+Release: AWS Elastic Beanstalk on 2016-08-23
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available with support for running multiple applications at different paths, .NET Core applications, and the latest security updates.
+Release: EB CLI 3.7.8 on 2016-08-23
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with support for application load balancers.
+Release: AWS Elastic Beanstalk Service Update on 2016-08-23
+AWS Elastic Beanstalk has been updated with support for application load balancers.
+Release: AWS SDK for Go v1.4.4
+This release updates the API for Amazon Relational Database Service
+Release: Amazon RDS on 2016-08-19
+This release increases the number of tags for each resource from 10 to 50.
+AWS SDK for Java 1.11.28
+This release includes service updates to Amazon EC2 and Amazon WorkSpaces.
+Release: AWS Billing and Cost Management on 2016-08-18
+This is a feature update for AWS Billing and Cost Management.
+Release: AWS SDK for Go v1.4.3
+This release updates the API for Amazon WorkSpaces and Amazon Elastic Compute Cloud
+Release: AWS Config on 2016-08-18
+With this release, AWS Config expands Config rules support to several AWS regions.
+Release: AWS Storage Gateway on 2016-17-08
+This release introduces AWS Storage Gateway compatibility with Veeam Backup & Replication V9 Update 2 or later
+AWS SDK for Java 1.11.27
+This release includes service updates to Amazon API Gateway, AWS Certificate Manager and Amazon EC2 Container Service. Includes region updates to AWS Database Migration Service and Amazon Inspector.
+Release: AWS SDK for Go v1.4.2
+This release updates the API for Amazon API Gateway, AWS Certificate Manager, Amazon EC2 Container Service, AWS Database Migration Service, and Amazon Inspector
+AWS SDK for Java 1.11.26
+This release includes three new services, Amazon Kinesis Analytics, AWS Snowball, and Elastic Load Balancing V2 and several other API updates of existing services.
+Release: AWS SDK for Go v1.4.1
+This release updates the API for Elastic Load Balancing, Amazon Snowball, Amazon Kinesis Analytics, AWS Key Management Service, and Amazon EC2 Container Service
+AWS SDK for Java 1.11.25
+This release includes service updates for Marketplace Commerce Analytics, Amazon Cloudfront, and EC2 Container Registry. New utilities added to wait for resources to transition to desired state.
+Release: AWS SDK for Go v1.4.0
+This release updates the APIs for Amazon CloudFront, AWS Marketplace Commerce Analytics, Amazon EC2 Container Registry, and adds a Crypto client for Amazon Simple Storage Service.
+Release: Amazon Elastic Transcoder on 2016-08-09
+This release provides support to a new AWS region, ap-southeast-2.
+Release: AWS Elastic Beanstalk on 2016-08-08
+PHP 7 is now available on AWS Elastic Beanstalk. All PHP platform configurations have been updated with new software versions and support for additional instance types.
+Release: AWS Mobile SDK for iOS 2.4.7
+Fix bug which caused integration issues between User pools and Cognito identity
+Release: Amazon RDS on 2016-08-05
+This release adds support for the License Included model for Oracle Standard Edition Two, and for changing your licensing model.
+Release: Amazon GameLift on 2016-08-04
+This release adds support for game session search, customized health checks, and multiple concurrent processes
+Release: AWS SDK for Java 1.11.24
+This release includes service updates to Amazon GameLift, AWS Lambda, and Amazon Relational Database Service (RDS).
+Release: AWS SDK for Go v1.3.1
+This release updates the API for Amazon Relational Database Service, AWS Lambda, and Amazon GameLift
+Release: Amazon RDS on 2016-08-04
+This release adds support for easily changing the VPC of a DB instance.
+Release: Amazon ElastiCache on 2016-08-03
+This release of Amazon ElastiCache adds support for M4 node types.
+AWS SDK for Java 1.11.23
+Service updates for EMR, CloudWatch Logs, Amazon Machine Learning, Route53 Domains, RDS, and IoT.
+Release: AWS SDK for Go v1.3.0
+This release updates the API for Amazon Route 53 Domains, Amazon Relational Database Service, Amazon Machine Learning, and added support for the SDK shared config file.
+Release: Amazon Machine Learning on 2016-08-02
+This release of Amazon Machine Learning (Amazon ML) adds new metrics for Amazon ML objects.
+Release: AWS Mobile SDK for iOS 2.4.6
+Various bug fixes and enhancements in SDK Core, Amazon Cognito Identity Provider, AWSS3 Transfer Utility, Amazon Mobile Analytics and Amazon SNS
+AWS SDK for Java 1.11.22
+This release includes service updates to AWS Directory Service, Amazon Elasticsearch Service and Amazon EC2.
+Release: AWS SDK for Go v1.2.10
+This restores documentation for Amazon Route 53 Domains that was removed in v1.2.9
+Release: AWS SDK for Android 2.3.0
+Cognito User pools is now GA
+Release: AWS SDK for Go v.1.2.9
+This release updates the API for Amazon Elasticsearch Service, Amazon API Gateway, Amazon Route 53 Domains, AWS Directory Service, Amazon Elastic Compute Cloud, and Amazon Cognito Identity Provider
+Release: AWS CodeCommit on 2016-07-28
+This update of AWS CodeCommit supports browsing the commit history of a repository from the console.
+Release: Amazon Elasticsearch Service on 2016-07-27
+This is a feature update for Amazon Elasticsearch Service.
+Latest Version: 2015-01-01
+Release: AWS SDK for Android 2.2.22
+This release fixes missing SES APIs
+Release: Amazon RDS on 2016-07-27
+This release adds support for native backup and restore for Microsoft SQL Server databases.
+AWS SDK for Java 1.11.21
+This release includes service updates to AWS IoT and AWS Lambda.
+Release: AWS SDK for Go v1.2.8
+This release updates the API for AWS IoT and SDK bug fixes.
+Release: AWS Config on 2016-07-25
+With this release, AWS Config supports enhancements for Config rules.
+Release: AWS SDK for Java 1.11.20
+This release includes service updates to AWS Certificate Manager, AWS Device Farm, AWS Config, and AWS Cloud Formation.
+Release: AWS SDK for Android 2.2.21
+This release includes general service updates, several improvements and bug fixes.
+Release: AWS SDK for Go v1.2.7
+This release updates the API for AWS Config, Amazon Elastic Transcoder, AWS CloudFormation, and AWS Certificate Manager
+Release: AWS Config on 2016-07-21
+With this release, users can record configuration changes to RDS and ACM resources.
+Release: Amazon Machine Learning on 2016-07-20
+This release of Amazon Machine Learning (Amazon ML) adds support for deleting multiple Amazon ML objects.
+Release: Amazon RDS on 2016-07-20
+This release adds support for restoring an Amazon Aurora DB cluster from backup files stored on an Amazon S3 bucket.
+Release: AWS Elastic Beanstalk on 2016-07-18
+PHP platform configurations for AWS Elastic Beanstalk have been updated to version 2.1.4.
+AWS SDK for Java 1.11.19
+This release includes service updates to AWS Device Farm and Amazon Simple Systems Manager (SSM).
+Release: AWS SDK for JavaScript v2.4.8
+This release updates the APIs for Amazon Simple Systems Manager (SSM) and AWS Device Farm.
+Release: Amazon Elastic Transcoder on 2016-07-19
+This release adds support for the WAV audio container.
+Release: AWS SDK for Go v1.2.6
+This release updates the APIs for AWS Device Farm and Amazon Simple Systems Management Service.
+AWS SDK for Java 1.11.17
+This release includes service updates to Amazon S3.
+AWS SDK for Java 1.11.18
+Bug fix for newly introduced builder
+AWS SDK for Java 1.11.16
+This release includes service updates to Amazon Relational Database Service (RDS), AWS Database Migration Service and Amazon EC2 Container Service.
+Release: AWS SDK for Go v1.2.5
+Release: AWS SDK for Go v1.2.5 Amazon Relational Database Service, Amazon EC2 Container Service, and SDK updates.
+Release: AWS SDK for JavaScript v2.4.7
+This release adds the ECS credentials provider, updates default configuration value for maxSockets, and updates APIs for Amazon Relational Database Service (RDS), AWS Database Migration Service (DMS), and Amazon EC2 Container Service (ECS).
+Release: AWS Database Migration Service on 2016-07-13
+This release adds support for data warehouse and application SQL conversions in the AWS Schema Conversion Tool.
+New tutorial for AWS Elastic Beanstalk: High-Availability PHP
+The new tutorial for AWS Elastic Beanstalk shows how to configure an Elastic Beanstalk environment for a high-availability PHP application with an external MySQL database running in Amazon Relational Database Service.
+Release: AWS SDK for Java 1.11.15
+This release introduces a new service: AWS Service Catalog. Also included are service updates to AWS Config and AWS Directory Service.
+Release: AWS SDK for Go v1.2.4
+This release updates the API for AWS Config, AWS ServiceCatalog, AWS OpsWorks, and AWS Directory Service
+Release: AWS SDK for JavaScript v2.4.6
+This release adds support for the AWS Service Catalog API, as well as updates APIs for AWS Config and AWS Directory Service.
+Release: AWS CloudTrail on 2016-07-07
+This release of AWS CloudTrail supports using the CloudTrail console to view resource types that are supported by AWS Config.
+Release: AWS Config on 2016-07-07
+With this release, AWS Config enables you to delete the configuration recorder.
+Release: AWS CodePipeline on 2016-07-06
+This update of AWS CodePipeline adds support for manual approval of actions in a pipeline.
+Release: AWS SDK for Java 1.11.14
+This release includes service updates to AWS CodePipeline.
+Release: AWS SDK for Go v1.2.3
+This release updates the API for AWS CodePipeline, and SDK updates.
+Release: AWS SDK for JavaScript v2.4.5
+This release updates the API for AWS CodePipeline.
+Release: AWS SDK for JavaScript v2.4.4
+This release updates APIs for Amazon Simple Systems Manager (SSM) and AWS Database Migration Service (DMS).
+Release: AWS SDK for Go v1.2.2
+This release updates the API for
+Release: Amazon RDS on 2016-06-30
+This release adds support for restoring an encrypted Amazon Aurora DB cluster from an unencrypted DB cluster snapshot.
+Release: AWS Elastic Beanstalk on 2016-06-26
+Linux-based platforms for AWS Elastic Beanstalk have been updated to version 2.1.3.
+Release: AWS SDK for Java 1.11.12
+This release includes service updates to Amazon Elastic File System, Amazon Simple Notification Service (SNS), AWS IoT, Amazon EC2, and Amazon GameLift.
+Release: AWS SDK for Java 1.11.10
+This release includes service updates to Amazon EC2, Amazon Cognito Identity, and AWS Direct Connect.
+Release: AWS SDK for Java 1.11.11
+This release provides support to a new AWS region, ap-south-1.
+Release: AWS SDK for Java 1.11.9
+This release includes service updates to AWS CodePipeline.
+Release: Amazon Simple Notification Service on 2016-06-28
+With this release, you can use Amazon SNS to send SMS messages worldwide to over 200 countries.
+Release: AWS SDK for JavaScript v2.4.3
+This release updates APIs for Amazon Elastic File System (EFS), Amazon Simple Notification Service (SNS), AWS IoT, Amazon GameLift, Amazon Route 53, and Amazon Elastic Compute Cloud (EC2).
+Release: AWS SDK for Go v1.2.1
+This release updates the API for Amazon GameLift, and SDK bug fix.
+Release: Amazon ElastiCache on June 27, 2016
+This release of Amazon ElastiCache adds support for Asia Pacific (Mumbai) Region.
+Release: AWS Mobile SDK for iOS 2.4.5
+Support for new AWS region Asia Pacific (Mumbai) region
+Release: AWS Elastic Beanstalk Service Update on 2016-06-27
+AWS Elastic Beanstalk is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon Glacier on 2016-06-27
+Amazon Glacier is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon S3 on 2016-06-27
+This release introduces the Asia Pacific (Mumbai) Region.
+Release: AWS CloudTrail on 2016-06-27
+This release of AWS CloudTrail includes support for the Asia Pacific (Mumbai) Region.
+Release: AWS SDK for Android 2.2.20
+This release adds support for new AWS region Asia Pacific (Mumbai) region. It also includes several improvements and bug fixes.
+Release: AWS SDK for JavaScript v2.4.2
+This release updates the APIs for Amazon Cognito Identity, Amazon Elastic Compute Cloud (EC2) and AWS Direct Connect.
+Release: AWS SDK for Go v1.2.0
+This release Updates the API for Amazon Elastic Compute Cloud, AWS Direct Connect, and adds a public AWS V4 request signer utility.
+Release: AWS Mobile SDK for iOS 2.4.4
+The SDK now has SAML support for Amazon Cognito Federated Identities.
+Release: AWS SDK for Android 2.2.19
+This release adds support for SAML role resolution of Amazon Cognito Identity. It also includes other improvements and bug fixes.
+Release: AWS CodePipeline on 2016-06-23
+This update of AWS CodePipeline adds support for one additional AWS region: EU (Ireland).
+Release: Amazon Machine Learning on 2016-06-23
+This release of Amazon Machine Learning (Amazon ML) adds console support for tagging Amazon ML objects.
+Release: AWS CodePipeline on 2016-06-22
+This update of AWS CodePipeline introduces support for retrying a failed action or a group of parallel failed actions in a stage.
+Release: AWS Elastic Beanstalk on 2016-06-21
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Go v1.1.36
+This release updates the API for Amazon Elastic Compute Cloud and AWS CodePipeline
+Release: AWS SDK for JavaScript v2.4.1
+This release updates the API for AWS CodePipeline.
+Release: Amazon RDS on 2016-06-17
+This release adds the April 2016 Oracle Database Patch Set Update (PSU).
+Release: AWS Snowball on 2016-06-16
+Reorganized documentation for AWS Snowball
+Release: AWS SDK for Java 1.11.8
+This release includes service updates to Amazon Relational Database Service (RDS), AWS CloudTrail and Amazon Simple Email Service (SES).
+AWS SDK for Java 1.11.7
+This release includes service updates to Amazon Machine Learning, AWS IoT and Amazon DynamoDB.
+Release: AWS CodeDeploy on 2016-06-15
+This update of AWS CodeDeploy adds support for one additional AWS region: Asia Pacific (Seoul).
+Release: Amazon RDS on 2016-06-15
+This release of Amazon Relational Database Service (Amazon RDS) adds support for PostgreSQL cross-region Read Replicas
+Release: AWS Command Line Interface 1.10.38
+This release updates commands for AWS Certificate Manager, Amazon Simple Email Service, Amazon Relational Database Service, and AWS CloudTrail.
+Release: AWS SDK for JavaScript v2.4.0
+This release updates the APIs for Amazon Relational Database Service (RDS) and Amazon Simple Email Service (SES).
+Release: AWS Elastic Beanstalk Service Update on 2016-06-14
+AWS Elastic Beanstalk has been updated with bug fixes and improved CloudTrail metrics.
+Release: AWS SDK for Go v1.1.35
+This release updates the API for Amazon Relational Database Service, AWS CloudTrail, and Amazon Simple Email Service
+Release: Amazon Simple Email Service on 2016-06-14
+This release adds support for the inclusion of the original email headers in feedback notifications.
+Release: AWS SDK for JavaScript v2.3.19
+This release updates APIs for Amazon Simple Storage Service (S3).
+Release: Amazon RDS on 2016-06-09
+This release adds support for Multi-AZ Deployments Using SQL Server Mirroring in additional regions.
+Release: AWS SDK for Go v1.1.34
+This release fixes an issue in the SDK service model.
+Release: AWS SDK for JavaScript v2.3.18
+This release updates APIs for AWS IoT, Amazon Machine Learning, Amazon Elastic Cloud Compute (EC2), Amazon DynamoDB Streams, Amazon CloudWatch.
+Release: AWS SDK for Go v1.1.33
+This release updates the API for Amazon CloudWatch, Amazon DynamoDB Streams, Amazon Elastic Compute Cloud, Amazon Machine Learning, and AWS IoT
+Release: Amazon Machine Learning on 2016-06-07
+This release of Amazon Machine Learning (Amazon ML) adds API support for tagging Amazon ML objects.
+AWS SDK for Java 1.11.6
+This release includes service updates to Amazon EC2.
+Release: AWS Command Line Interface 1.10.35
+This release updates commands for Amazon Elastic Compute Cloud and Application Auto Scaling.
+Release: AWS SDK for Android 2.2.18
+This release removes a custom TrustManager implementation to comply with new Google Play Store submission verification.
+Release: AWS SDK for Go v1.1.32
+This release updates the API for Amazon Elastic Compute Cloud
+Release: AWS SDK for JavaScript v2.3.17
+This release updates the API for Amazon Elastic Cloud Compute (EC2).
+AWS SDK for Ruby v2.3.10
+AWS SDK for Ruby v2.3.10
+Release: AWS CodePipeline on 2016-06-02
+This update of AWS CodePipeline adds support for AWS OpsWorks.
+Release: Amazon RDS on 2016-06-01
+This release adds support for MariaDB version 10.1.
+Release: AWS Mobile SDK for iOS 2.4.3
+AWSS3TransferUtility now supports Amazon S3 Transfer Acceleration. This release also contains bug fix for error handling in AWSS3TransferUtility.
+Release: Amazon RDS on 2016-05-27
+This release adds support Enhanced Monitoring on Oracle DB instances.
+Release: Amazon ElastiCache on 2016-05-26
+This release of Amazon ElastiCache adds support for exporting a snapshot to an Amazon S3 bucket.
+This release also includes parameter management changes.
+AWS SDK for Java 1.11.5
+This release includes service updates to Amazon ElastiCache.
+Release: AWS SDK for JavaScript v2.3.16
+This release updates APIs for Amazon ElastiCache.
+AWS SDK for Ruby 2.3.9
+This release includes an API update for Amazon ElastiCache.
+Release: AWS SDK for Go v1.1.31
+This release updates the APIs for Amazon ElastiCache.
+Release: AWS Config on 2016-05-26
+With this release, AWS Config is available in the AWS GovCloud (US) region.
+Release: AWS Elastic Beanstalk on 2016-05-25
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Java 1.11.4
+This release includes service updates to Amazon Relational Database Service (RDS) and Amazon EC2.
+Release: AWS Command Line Interface 1.10.33
+This release updates commands for Amazon Relational Database Service and Amazon Elastic Compute Cloud, and fixes one or more issues.
+Release: AWS SDK for JavaScript v2.3.15
+This release updates the APIs for Amazon Elastic Cloud Compute (EC2) and Amazon Relational Database Service (RDS).
+Release: Amazon Elastic Transcoder on 2016-05-24
+This release adds support for the MPEG-DASH playlist format.
+AWS SDK for Ruby 2.3.8
+This release includes API updates for Amazon Elastic Compute Cloud and Amazon Relational Database Service.
+Release: AWS SDK for Go v1.1.30
+This release updates the APIs for Amazon Relational Database Service and Amazon Elastic Compute Cloud.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-23
+AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Elastic Beanstalk Console Update on 2016-05-23
+The management console has been updated to support ACM certificates.
+Release: AWS SDK for Android 2.2.17
+This release adds support for Amazon S3 transfer acceleration, cross-region replication and list objects v2 . It also includes other improvements and bug fixes.
+AWS SDK for Java 1.11.3
+This release includes service updates to Amazon EC2 Container Service, Amazon Kinesis Firehose, and Amazon EC2.
+Release: AWS SDK for Go v1.1.29
+This release updates the API for Amazon Redshift and Amazon EC2 Container Service
+AWS SDK for Ruby 2.3.7
+This release includes API updates for Amazon Kinesis Firehose and Amazon EC2 Container Service.
+Release: AWS SDK for JavaScript v2.3.14
+This release updates the APIs for Amazon EC2 Container Service (ECS) and Amazon Kinesis Firehose.
+Release: AWS Database Migration Service on 2016-05-19
+This release adds support for SSL in the AWS Schema Conversion Tool.
+AWS SDK for Java 1.11.2
+This release includes a new service, Application Auto Scaling.
+AWS SDK for Ruby 2.3.6
+This release includes initial API support for Application Auto Scaling.
+Release: AWS SDK for JavaScript v2.3.13
+This release adds support for the Application Auto Scaling API.
+Release: AWS SDK for Go v1.1.28
+This release updates the API for Application Auto Scaling
+Release: Amazon Elasticsearch Service on 2016-05-18
+This is a feature update for Amazon Elasticsearch Service.
+Release: Amazon RDS on 2016-05-18
+This release adds support for sharing Amazon Aurora DB cluster snapshots.
+Release: AWS Command Line Interface 1.10.30
+This release fixes a regression with Amazon EC2 commands.
+AWS SDK for Java 1.11.1
+This release includes support for the new AWS Application Discovery Service and service updates to Amazon WorkSpaces.
+Release: AWS SDK for JavaScript v2.3.12
+This release updates the APIs for Amazon WorkSpaces and AWS Application Discovery Service.
+Release: AWS SDK for Go v1.1.27
+This release updates the API for Amazon DynamoDB, AWS Application Discovery Service, and Amazon WorkSpaces
+AWS SDK for Ruby 2.3.5
+This release includes API updates for AWS Application Discovery Service, and Amazon WorkSpaces.
+Release: AWS Config on 2016-05-13
+With this release, AWS Config makes several improvements to Config Rules, including an improved REQUIRED_TAGS rule, a new rule for checking whether MFA is enabled, and console improvements.
+AWS SDK for Java 1.11.0
+This release includes support for the new AWS Application Discovery Service and service updates to Amazon EC2, AWS CloudFormation and Amazon Simple Systems Management Service. This release also includes a major version upgrade for AWS SDK for Java, and drops support for deprecated Amazon CloudSearch and Amazon CloudFront APIs.
+Release: AWS Elastic Beanstalk on 2016-05-13
+PHP and Ruby platforms for AWS Elastic Beanstalk have been updated to version 2.1.2.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-12
+AWS Elastic Beanstalk has been updated with support for new EBS volume types and bug fixes.
+Release: AWS SDK for Go v1.1.26
+This release updates the API for AWS CloudFormation, Amazon Elastic Compute Cloud, Amazon Simple Systems Management Service, and AWS Application Discovery Service.
+Release: AWS SDK for JavaScript v2.3.11
+This release adds support for the AWS Application Discovery Service, and updates the APIs for Amazon Elastic Cloud Compute (EC2), Amazon Simple Systems manager (SSM) and AWS CloudFormation.
+Release: AWS SDK for Android 2.2.16
+This release adds support of MQTT over web socket for AWS IoT. It also includes other improvements and bug fixes.
+Release: AWS Command Line Interface 1.10.27
+This release updates commands for AWS Storage Gateway and Amazon Elastic MapReduce.
+AWS SDK for Java 1.11.73
+This release includes updates for Amazon API Gateway, AWS Identity and Access Management (IAM) and AWS Elastic Beanstalk.
+AWS SDK for Java 1.11.72
+This release includes updates for Amazon EC2 Container Registry and Amazon Relational Database Service (RDS).
+Release: AWS Config on 2016-12-21
+With this release, AWS Config expands Config rules support to several AWS Regions.
+AWS SDK for Java 1.11.70
+This release includes updates for Amazon Kinesis Firehose and AWS Storage Gateway.
+Release: Amazon RDS on 2016-12-20
+This release adds support for copying an encrypted DB snapshot to another region.
+Release: AWS Database Migration Service on 2016-12-20
+This release updates the AWS Schema Conversion Tool to add task and endpoint integration with the AWS Database Migration Service (AWS DMS). It also adds support for storing AWS profiles, and using Amazon Aurora with PostgreSQL compatibility as a target database.
+Release: Amazon ElastiCache on 2016-12-20
+This release of Amazon ElastiCache adds support for Memcached version 1.4.33.
+AWS SDK for Java 1.11.69
+This release includes updates for AWS Application Discovery Service and Amazon Cognito Identity.
+Release: AWS SDK for Android 2.3.8
+This release contains general improvements for the SDK.
+Release: AWS Elastic Beanstalk on 2016-12-19
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Sample AWS Elastic Beanstalk configuration files for Amazon EFS
+Use Elastic Beanstalk configuration files to mount an Amazon EFS file system and share files between the instances in your environment.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-16
+You can now rebuild terminated AWS Elastic Beanstalk environments to create a new environment with the same environment ID, application version, and resource configuration.
+Release: Amazon QuickSight on 2016-12-16
+This is the first public release of Amazon QuickSight Enterprise edition. Enterprise edition offers encryption at rest and integration with Microsoft AD directories in AWS Directory Service.
+AWS SDK for Java 1.11.68
+This release includes service updates for Amazon Simple Systems Manager & Amazon Cognito Identity Provider as well as new regions for Cognito
+AWS SDK for Java 1.11.66
+This release includes service updates for Amazon Relational Database Service (RDS), Amazon CloudFront & AWS WAF
+AWS SDK for Java 1.11.60
+This release includes service updates for AWS Cloud Formation, Amazon Glacier and Amazon S3
+AWS SDK for Java 1.11.53
+This release includes a service update for CloudFormation
+AWS SDK for Java 1.11.67
+This release includes a new service 'AWS Batch' and service updates for CloudWatch Logs, AWS Marketplace Commerce Analytics and AWS Database Migration Service
+AWS CodePipeline Release Notes
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Tokyo).
+Release: EB CLI 3.8.8 on 2016-12-13
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support the Europe (London) Region.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-13
+AWS Elastic Beanstalk is now available in the Europe (London) Region.
+Release: AWS Config on 2016-12-13
+With this release, AWS Config is available in the EU (London) Region.
+Release: AWS CloudTrail on 2016-12-13
+This release of AWS CloudTrail includes support for the EU (London) Region.
+Release: AWS CodeDeploy on 2016-12-13
+This update of AWS CodeDeploy adds support for one additional AWS region: EU (London).
+Release: Amazon ElastiCache on 2016-12-13
+This release of Amazon ElastiCache introduces support for the EU West (London) Region.
+Release: AWS SDK for Android 2.3.7
+Introducing new AWS EUWest2 - Europe(London) region and Amazon Rekognition. This release also contains general improvements for the SDK.
+Release: AWS Mobile SDK for iOS 2.4.16
+Introducing new AWS EUWest2 - Europe(London) region and Amazon Rekognition. This release also contains general improvements for the SDK.
+Release: Amazon S3 on 2016-12-13
+This release introduces the EU (London) Region.
+Release: Amazon Glacier on 2016-12-13
+Amazon Glacier is now available in the EU (London) Region.
+Release: AWS Elastic Beanstalk on 2016-12-12
+Docker configurations for AWS Elastic Beanstalk have been updated to version 2.2.2.
+Release: Amazon RDS on 2016-12-12
+This release adds the October 2016 Oracle Database Patch Set Update (PSU).
+Release: AWS Elastic Beanstalk on 2016-12-09
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available with support for AWS X-Ray.
+Release: Amazon Glacier on 2016-12-08
+Amazon Glacier is now available in the Canada (Central) Region.
+Release: Amazon Redshift on 2016-12-08
+This release of Amazon Redshift introduces UDF user logging.
+Release: EB CLI 3.8.6 on 2016-12-08
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support the Canada (Central) Region.
+Release: Amazon S3 on 2016-12-08
+This release introduces the Canada (Central) Region.
+Release: AWS SDK for Android 2.3.6
+Introducing new AWS CACentral1 - Canada(Central) region and general improvements for the SDK.
+Release: AWS Mobile SDK for iOS 2.4.15
+Introducing new AWS CACentral1 - Canada(Central) region and general improvements for the SDK.
+Release: AWS Elastic Beanstalk Service Update on 2016-12-08
+AWS Elastic Beanstalk is now available in the Canada (Central) Region.
+Release: AWS CloudTrail on 2016-12-08
+This release of AWS CloudTrail includes support for the Canada (Central) Region.
+Release: AWS Config on 2016-12-08
+With this release, AWS Config is available in the Canada (Central) Region.
+Release: AWS Storage Gateway on 2016-12-08
+This release makes AWS Storage Gateway available in the Canada (Central) region.
+Release: AWS CodeDeploy on 2016-12-08
+This update of AWS CodeDeploy adds support for one additional AWS region: Canada (Central).
+AWS SDK for Java 1.11.65
+This release includes service updates to AWS Config.
+Release: AWS CodePipeline on 2016-12-07
+This update of AWS CodePipeline adds support for one additional AWS region: South America (São Paulo).
+Release: AWS Config on 2016-12-07
+With this release, you can record configuration changes for Amazon Redshift resources.
+AWS SDK for Java 1.11.64
+This release includes service updates to AWS Config and Amazon EC2.
+Release: Amazon GameLift on 2016-12-06
+This release expands GameLift suppport to five additional regions.
+Release: AWS Database Migration Service on 2016-12-06
+This release adds SSL support for Oracle endpoints.
+Release: AWS CodeBuild on 2016-12-05
+This is the initial public release of the AWS CodeBuild Jenkins Plugin.
+Release: Amazon RDS on 2016-12-05
+This release adds support for outbound network access on Oracle DB instances.
+Release: EB CLI 3.8.5 on 2016-12-1
+The Elastic Beanstalk Command Line Interface (EB CLI) has added support for AWS CodeBuild.
+Release: AWS CodePipeline on 2016-12-01
+This update of AWS CodePipeline adds support for adding an AWS CodeBuild build project to a pipeline.
+Release: AWS Config on 2016-12-01
+With this release, you can record software configuration changes on your managed instances with support for managed instance inventory.
+Release: AWS SDK for Java 1.11.63
+This release includes service updates to Amazon Simple Systems Manager (SSM), AWS Elastic Beanstalk, Amazon API Gateway, Amazon EC2, AWS Lambda, and AWS Direct Connect. Also included are eight new services: AWS X-Ray, AWS Step Functions, Amazon AppStream, AWS Health APIs and Notifications, AWS OpsWorks for Chef Automate, AWS CodeBuild, AWS Shield, and Amazon Pinpoint.
+Release: AWS CodeBuild on 2016-12-01
+This is the initial public release of AWS CodeBuild.
+Release: AWS CloudTrail on 2016-12-01
+This release of AWS CloudTrail includes support for AWS CodeBuild, AWS Health, and AWS Step Functions.
+Release: AWS Mobile SDK for iOS 2.4.14
+Introducing Amazon Pinpoint.
+Release: AWS SDK for Android 2.3.5
+Introducing Amazon Pinpoint.
+Preview Release: Amazon Lex on 2016-11-30
+This is an invitation only preview release of Amazon Lex.
+Release: Amazon Polly on 2016-11-30
+This is the initial release of Amazon Polly.
+Release: Amazon Rekognition on 2016-11-30
+This is the initial release of Amazon Rekognition.
+Release: AWS SDK for Java 1.11.62
+This release includes service updates to Amazon Import/Export Snowball. Also included are three new services: Amazon Lightsail, Amazon Polly and Amazon Rekognition.
+Release: AWS CloudTrail on 2016-11-30
+This release of AWS CloudTrail includes support for Amazon Polly.
+Release: AWS Mobile SDK for iOS 2.4.13
+Introducing Amazon Lex and Amazon Polly. This release also includes some bug fixes and general service improvements.
+Release: AWS SDK for Android 2.3.4
+Introducing Amazon Lex and Amazon Polly.
+Release: AWS Storage Gateway on 2016-29-11
+This release introduces support for file gateway.
+Release: Amazon S3 on 2016-11-29
+Amazon S3 now supports object tagging and introduces new storage management tools and an new user interface for the console.
+Release: AWS SDK for Java 1.11.61
+This release includes service updates to Amazon S3.
+Release: Amazon RDS on 2016-11-23
+This release adds support for Amazon Aurora running on the db.t2.medium DB instance class.
+Release: AWS Elastic Beanstalk Service Updates on 2016-11-23
+AWS Elastic Beanstalk service update for November 2016.
+Release: Amazon S3 on 2016-11-21
+Amazon S3 now supports additional Amazon Glacier restore options. CloudTrail now supports logging Amazon S3 object level API operations.
+Release: Amazon Glacier on 2016-11-21
+Amazon Glacier now supports additional archive retrieval options.
+AWS SDK for Java 1.11.59
+This release includes service updates to Amazon ECS and AWS CloudTrail.
+AWS SDK for Java 1.11.57
+This release includes updates for AWS Marketplace Metering Service, Amazon SQS, Amazon CloudWatch and Amazon API Gateway.
+AWS SDK for Java 1.11.58
+This release includes updates for Amazon GameLift, AWS Lambda, Amazon Elastic MapReduce, Amazon Elastic Transcoder and Application AutoScaling
+Release: AWS CloudTrail on 2016-11-21
+This release of AWS CloudTrail supports configuring your trail with event selectors and logging for Amazon S3 object level API operations.
+Release: Amazon Simple Email Service on 2016-11-21
+This release adds support for dedicated IP addresses.
+Release: EB CLI 3.8.4 on 2016-11-17
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated.
+Release: Amazon GameLift on 2016-11-18
+This release adds new support for remotely accessing GameLift instances.
+Release: Amazon Elastic Transcoder on 2016-11-17
+You can now use Amazon Elastic Transcoder to stitch together parts of multiple files into one output file.
+Release: AWS CodePipeline on 2016-11-17
+This update of AWS CodePipeline adds support for one additional AWS region: EU (Frankfurt).
+Release: AWS Database Migration Service on 2016-11-17
+This release adds support for Greenplum Database, Netezza, and Redshift optimization to the AWS Schema Conversion Tool.
+Release: Amazon Simple Queue Service on 2016-11-17
+Amazon Simple Queue Service (Amazon SQS) lets you create FIFO (First-In-First-Out) queues.
+AWS SDK for Java 1.11.56
+This releases includes updates for Amazon Route 53 and AWS Service Catalog
+Release: AWS Elastic Beanstalk on 2016-11-16
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS CloudTrail on 2016-11-16
+This release of AWS CloudTrail supports additional values for the userIdentity element.
+AWS SDK for Java 1.11.55
+This releases include updates for Amazon ElastiCache, AWS Directory Service and Amazon Kinesis
+AWS SDK for Java 1.11.54
+This releases includes an update for Amazon Cognito Identity Provider
+Release: Amazon QuickSight on 2016-11-15
+This is the first public release of Amazon QuickSight, a new business analytics service for building visualizations, performing ad hoc analysis, and quickly getting business insights from your data.
+Release: AWS Elastic Beanstalk on 2016-11-11
+Additional Tomcat 8 on Java 8 platform configuration for AWS Elastic Beanstalk, version 2.3.1.
+Three new sample applications are available for AWS Elastic Beanstalk
+New sample applications on GitHub show the use of Spring, Drupal, and WordPress with AWS Elastic Beanstalk.
+Release: Amazon RDS on 2016-11-11
+This release of Amazon Relational Database Service (Amazon RDS) introduces support for PostgreSQL version 9.6.1.
+Release: AWS Mobile SDK for iOS 2.4.12
+Added support for max key storage size in Amazon Mobile Analytics & other bug fixes
+Release: Amazon Redshift on 2016-11-10
+This release of Amazon Redshift adds connection limits for users and for databases and support for UTF-8 multibyte characters in object names. In addition, ANALYZE COMPRESSION now reports an estimate of potential reduction. Also, a COPY command enhancement enables you to reduce vacuum times.
+Release: Amazon RDS on 2016-11-04
+This release adds support for Microsoft SQL Server 2016.
+AWS SDK for Java 1.11.52
+The release includes a service update to AWS Direct Connect.
+Release: AWS CodePipeline on 2016-11-03
+This update of AWS CodePipeline adds support for AWS CloudFormation as a deployment action.
+AWS SDK for Java 1.11.51
+This release includes a service update for Amazon Simple Email Service and several bug fixes.
+Release: AWS Storage Gateway on 2016-11-02
+This release introduces support for HPE Data Protector Manager 9.x.
+Release: Amazon RDS on 2016-11-02
+This release adds support for upgrading Oracle DB instances from 11g to 12c.
+Release: Amazon Simple Email Service on 2016-11-02
+This release adds support for fine-grained email sending metrics.
+AWS SDK for Java 1.11.50
+This release includes a service update for AWS Cloud Formation.
+Release: Amazon ElastiCache on 2016-11-01
+his release of Amazon ElastiCache adds support for M4 and R3 node types in Sao Paul and Beijing
+AWS SDK for Java 1.11.49
+This release includes multiple bug fixes to AWS SDK for Java.
+Release: AWS Billing and Cost Management on 2016-10-20
+This is a feature update for AWS Billing and Cost Management.
+Release: Amazon Redshift on 2016-10-27
+This release of Amazon Redshift adds automatic compression for CTAS tables.
+Release: AWS Elastic Beanstalk on 2016-10-28
+Linux-based platforms for AWS Elastic Beanstalk have been updated.
+Release: AWS CodePipeline on 2016-10-26
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Sydney).
+AWS SDK for Java 1.11.48
+This release includes region updates to AWS CodePipeline.
+Release: Amazon RDS on 2016-10-25
+This release adds support for Microsoft SQL Server 2014 Enterprise Edition.
+AWS SDK for Java 1.11.47
+This release introduces a new service, AWS Server Migration Service.
+Release: AWS Config on 2016-10-24
+With this release, AWS Config is available in the China (Beijing) Region.
+Release: AWS Elastic Beanstalk on 2016-10-21
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Java 1.11.46
+This release introduces a new service, AWS Budgets.
+Release: AWS CodePipeline on 2016-10-20
+This update of AWS CodePipeline adds support for one additional AWS region: Asia Pacific (Singapore).
+Release: AWS SDK for Java 1.11.45
+This release includes service updates to Amazon Kinesis Analytics, AWS Config, Amazon CloudFront, AWS IoT, and Amazon Relational Database Service (RDS).
+Release: AWS SDK for Java 1.11.44
+This release includes a new region launch in Ohio and service updates to Amazon Route 53.
+Release: Amazon RDS on 2016-10-18
+This release adds support for Amazon Aurora integration with Amazon S3 and AWS Lambda.
+Release: AWS Config on 2016-10-18
+With this release, you can record configuration changes for Amazon S3 buckets.
+Release: EB CLI 3.8.3 on 2016-10-17
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated to support deployments with AWS CodeCommit.
+Amazon ElastiCache on October 17, 2016
+This release of Amazon ElastiCache adds support for US East (Ohio) Region.
+Release: AWS Elastic Beanstalk Service Update on 2016-10-17
+AWS Elastic Beanstalk supports pagination for calls to DescribeApplicationVersions.
+Release: Amazon Elasticsearch Service on 2016-10-17
+This is a feature update for Amazon Elasticsearch Service.
+Latest Version: 2015-01-01
+Release: AWS Config on 2016-10-17
+With this release, AWS Config is available in the US East (Ohio) Region.
+Release: AWS CloudTrail on 2016-10-17
+This release of AWS CloudTrail includes support for the US East (Ohio) Region.
+Release: AWS SDK for Android 2.3.3
+This release adds support for us-east-2/CMH region in SDK
+Release: AWS Mobile SDK for iOS 2.4.11
+Introducing new AWS USEast2 (Ohio) region and general improvements for the SDK.
+Release: AWS Storage Gateway on 2016-10-17
+This release makes AWS Storage Gateway available in the US East (Ohio) region.
+AWS SDK for Java 1.11.43
+This release includes service updates for Amazon GameLift, AWS Elastic Beanstalk and AWS Certificate Manager
+Release: AWS Elastic Beanstalk Service Update on 2016-10-13
+AWS Elastic Beanstalk has been updated with support for deployments from AWS CodeCommit.
+Release: Amazon GameLift on 2016-10-13
+This release adds new resource protection features.
+AWS SDK for Java 1.11.42
+This release includes service updates for Amazon ElastiCache and Amazon EC2 Container Registry
+Release: Amazon ElastiCache on October 12, 2016
+This release of Amazon ElastiCache adds support for Redis Cluster.
+Release: AWS Mobile SDK for iOS 2.4.10
+Add API Gateway custom invoker method and Cognito Identity Provider admin create users feature.
+Release: AWS SDK for Android 2.3.2
+This release adds support for Admin Create Users feature for Amazon Cognito Identity Provider.
+AWS SDK for Java 1.11.40
+This release fixes an issue in the LambdaInvokerFactory utility.
+Release: AWS Config on 2016-10-04
+With this release, AWS Config adds eight new managed rules.
+Release: AWS Database Migration Service on 2016-10-04
+This release adds support for mapping rules and schema copy to the AWS Schema Conversion Tool.
+Release: AWS Elastic Beanstalk Management Console Update on 2016-10-03
+A new version of the AWS Elastic Beanstalk management console is now available for preview.
+Release: Amazon Elastic Transcoder on 2016-09-30
+This release provides support to a new AWS Region, ap-south-1.
+Release: Amazon RDS on 2016-09-29
+This release adds support for accessing the tempdb database on Microsoft SQL Server DB instances.
+Release: Amazon Redshift on 2016-09-29
+This release of Amazon Redshift adds a time stamp with time zone (TIMESTAMPTZ) data type.
+Release: Amazon RDS on 2016-09-28
+This release adds support for Oracle Label Security in the AWS GovCloud (US) region.
+Release: AWS Elastic Beanstalk on 2016-09-26
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available in all Elastic Beanstalk regions except Asia Pacific (Mumbai) and Asia Pacific (Seoul).
+Release: AWS Billing and Cost Management on 2016-09-19
+This is a feature update for AWS Billing and Cost Management.
+AWS SDK for Java 1.11.37
+This release includes a service update for API Gateway and updates to DynamoDB mapper
+Release: AWS CodePipeline on 2016-09-22
+This update of AWS CodePipeline adds support for displaying the version identifier of a custom action in the console
+Release: AWS SDK for Go v1.4.12
+This release updates the API for Amazon API Gateway
+Release: AWS Elastic Beanstalk on 2016-09-15
+The Multicontainer Docker platform for AWS Elastic Beanstalk has been updated to version 2.1.7.
+AWS SDK for Java 1.11.36
+This release includes service updates to Amazon Relational Database Service (RDS), Amazon Elastic MapReduce, Redshift, CloudHSM & CodeDeploy as well as Java SDK enhancements for DynamoDB.
+Release: AWS SDK for Go v1.4.11
+This release updates the APIs for Amazon Redshift, Amazon Relational Database Service, Amazon Elastic MapReduce, AWS CodeDeploy, and SDK updates.
+Release: Amazon RDS on 2016-09-20
+This release adds the July 2016 Oracle Database Patch Set Update (PSU), and support for Oracle UTL_MAIL.
+Release: Amazon Elastic Transcoder on 2016-09-20
+This is a feature release for Amazon Elastic Transcoder.
+Release: AWS Mobile SDK for iOS 2.4.9
+Adds support for custom endpoints; fixes Amazon S3 bug which disabled usage with CocoaPods
+Release: Amazon RDS on 2016-09-19
+This release adds support for local time zones on Microsoft SQL Server DB instances.
+AWS SDK for Java 1.11.35
+This release includes service updates to Amazon Relational Database Service and AWS IoT.
+AWS SDK for Java 1.11.34
+This release includes service updates to AWS Service Catalog.
+Release: AWS CodeDeploy on 2016-09-15
+This update of AWS CodeDeploy adds integration with Amazon CloudWatch alarms and introduces support for automatically rolling back a deployment when there is a failure or other specified conditions are met.
+Release: Amazon Redshift on 2016-09-15
+This release of Amazon Redshift introduces Enhanced VPC Routing.
+Release: AWS SDK for Go v1.4.10
+This release updates the API for AWS IoT and Amazon Relational Database Service
+Release: AWS CodeCommit on 2016-09-14
+This update of AWS CodeCommit supports viewing a graph of commits from the console.
+Release: AWS Database Migration Service on 2016-09-14
+This release adds support for change data capture for Amazon RDS PostgreSQL DB instances as a source.
+Release: Amazon RDS on 2016-09-14
+This release adds support for PostgreSQL versions 9.5.4, 9.4.9, and 9.3.14, and also support for PostgreSQL logical replication and event triggers.
+Release: AWS SDK for Go v1.4.9
+This release updates the API for AWS Service Catalog, and Amazon Elastic Compute Cloud.
+Release: AWS Mobile SDK for iOS 2.4.8
+Adds Cognito Identity Provider custom authentication handlers and general SDK improvements.
+Release: AWS CodeDeploy on 2016-09-09
+This update of AWS CodeDeploy adds integration with AWS CloudWatch Events.
+Release: AWS SDK for Android 2.3.1
+The release adds support for generic invoker for API Gateway and fixes a bug related to StandardCharset
+Release: AWS SDK for Java 1.11.33
+This release includes service updates to Amazon CloudFront.
+Release: Amazon RDS on 2016-09-08
+This release adds the reader endpoint to Amazon Aurora DB clusters.
+Release: AWS SDK for Go v1.4.8
+This release updates the API for Amazon CloudFront
+Release: AWS CodePipeline on 2016-09-08
+This update of AWS CodePipeline adds support for viewing details about code changes currently flowing through your software release pipeline, such as commit IDs, check-in comments, and time since check-in.
+Release: Amazon RDS on 2016-09-06
+This release adds support for getting the status of possible source regions for Read Replicas or DB snapshots by using the Amazon RDS API.
+Release: AWS SDK for Java 1.11.32
+This release includes service updates to AWS CodePipeline, Amazon Relational Database Service (RDS) and Amazon Simple Notification Service (SNS).
+Release: AWS SDK for Go v1.4.7
+This release updates the APIs for Amazon Simple Notification Service, Amazon Relational Database Service, and SDK bug fixes.
+New tutorial for AWS Elastic Beanstalk: Node.js with DynamoDB
+The new tutorial for AWS Elastic Beanstalk shows how use DynamoDB in a Node.js application with the AWS SDK for JavaScript in Node.js, and how to configure an application to either create a new DynamoDB table or use an existing one.
+Release: AWS Elastic Beanstalk on 2016-09-06
+The PHP platform for AWS Elastic Beanstalk has been updated to version 2.1.7.
+Release: AWS Config on 2016-09-06
+With this release, you can view API activity logged by AWS CloudTrail in the AWS Config timeline.
+AWS SDK for Java 1.11.31
+This release contains new features for Application Auto Scaling, Cognito Identity Provider, Amazon GameLift, and Amazon RDS.
+Release: AWS SDK for Go v1.4.6
+This release updates the API for Amazon GameLift, Amazon Cognito Identity Provider, Application Auto Scaling
+Release: Amazon RDS on 2016-09-01
+This release adds support for the Oracle Enterprise Manager Cloud Control.
+Release: Amazon GameLift on 2016-09-01
+This release adds support for Linux game servers.
+AWS Storage Gateway Console Redesign
+This release introduces a new and simplified design for the AWS Storage Gateway Management Console
+Release: Amazon Simple Queue Service on 2016-08-31
+Amazon Simple Queue Service (Amazon SQS) now allows you to use the ApproximateAgeOfOldestMessage CloudWatch metric to find the approximate age of the oldest non-deleted message in the queue.
+AWS SDK for Ruby Release Notes on GitHub
+Please see our GitHub changelog for release notes related to each SDK update.
+AWS SDK for Java 1.11.30
+This release includes service updates to Amazon Route 53, Amazon CloudFront, AWS CodePipeline and AWS Lambda.
+Release: AWS SDK for Go v1.4.5
+This release updates the API for Amazon CloudFront, Amazon Route 53, Amazon EC2 Container Service, and AWS CodePipeline
+Release: AWS Elastic Beanstalk Service Update on 2016-08-30
+AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Lambda on 2016-08-29
+This release introduces the Asia Pacific (Seoul) Region.
+Release: AWS Elastic Beanstalk on 2016-08-24
+Tomcat platform configurations for AWS Elastic Beanstalk have been updated to version 2.2.0.
+AWS SDK for Java 1.11.29
+This release includes service updates to Amazon Relational Database Service (RDS).
+Release: Amazon RDS on 2016-08-23
+This release adds support to get an Amazon Resource Name (ARN) for a resource.
+Release: AWS Elastic Beanstalk on 2016-08-23
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available with support for running multiple applications at different paths, .NET Core applications, and the latest security updates.
+Release: EB CLI 3.7.8 on 2016-08-23
+The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with support for application load balancers.
+Release: AWS Elastic Beanstalk Service Update on 2016-08-23
+AWS Elastic Beanstalk has been updated with support for application load balancers.
+Release: AWS SDK for Go v1.4.4
+This release updates the API for Amazon Relational Database Service
+Release: Amazon RDS on 2016-08-19
+This release increases the number of tags for each resource from 10 to 50.
+AWS SDK for Java 1.11.28
+This release includes service updates to Amazon EC2 and Amazon WorkSpaces.
+Release: AWS Billing and Cost Management on 2016-08-18
+This is a feature update for AWS Billing and Cost Management.
+Release: AWS SDK for Go v1.4.3
+This release updates the API for Amazon WorkSpaces and Amazon Elastic Compute Cloud
+Release: AWS Config on 2016-08-18
+With this release, AWS Config expands Config rules support to several AWS regions.
+Release: AWS Storage Gateway on 2016-17-08
+This release introduces AWS Storage Gateway compatibility with Veeam Backup & Replication V9 Update 2 or later
+AWS SDK for Java 1.11.27
+This release includes service updates to Amazon API Gateway, AWS Certificate Manager and Amazon EC2 Container Service. Includes region updates to AWS Database Migration Service and Amazon Inspector.
+Release: AWS SDK for Go v1.4.2
+This release updates the API for Amazon API Gateway, AWS Certificate Manager, Amazon EC2 Container Service, AWS Database Migration Service, and Amazon Inspector
+AWS SDK for Java 1.11.26
+This release includes three new services, Amazon Kinesis Analytics, AWS Snowball, and Elastic Load Balancing V2 and several other API updates of existing services.
+Release: AWS SDK for Go v1.4.1
+This release updates the API for Elastic Load Balancing, Amazon Snowball, Amazon Kinesis Analytics, AWS Key Management Service, and Amazon EC2 Container Service
+AWS SDK for Java 1.11.25
+This release includes service updates for Marketplace Commerce Analytics, Amazon Cloudfront, and EC2 Container Registry. New utilities added to wait for resources to transition to desired state.
+Release: AWS SDK for Go v1.4.0
+This release updates the APIs for Amazon CloudFront, AWS Marketplace Commerce Analytics, Amazon EC2 Container Registry, and adds a Crypto client for Amazon Simple Storage Service.
+Release: Amazon Elastic Transcoder on 2016-08-09
+This release provides support to a new AWS region, ap-southeast-2.
+Release: AWS Elastic Beanstalk on 2016-08-08
+PHP 7 is now available on AWS Elastic Beanstalk. All PHP platform configurations have been updated with new software versions and support for additional instance types.
+Release: AWS Mobile SDK for iOS 2.4.7
+Fix bug which caused integration issues between User pools and Cognito identity
+Release: Amazon RDS on 2016-08-05
+This release adds support for the License Included model for Oracle Standard Edition Two, and for changing your licensing model.
+Release: Amazon GameLift on 2016-08-04
+This release adds support for game session search, customized health checks, and multiple concurrent processes
+Release: AWS SDK for Java 1.11.24
+This release includes service updates to Amazon GameLift, AWS Lambda, and Amazon Relational Database Service (RDS).
+Release: AWS SDK for Go v1.3.1
+This release updates the API for Amazon Relational Database Service, AWS Lambda, and Amazon GameLift
+Release: Amazon RDS on 2016-08-04
+This release adds support for easily changing the VPC of a DB instance.
+Release: Amazon ElastiCache on 2016-08-03
+This release of Amazon ElastiCache adds support for M4 node types.
+AWS SDK for Java 1.11.23
+Service updates for EMR, CloudWatch Logs, Amazon Machine Learning, Route53 Domains, RDS, and IoT.
+Release: AWS SDK for Go v1.3.0
+This release updates the API for Amazon Route 53 Domains, Amazon Relational Database Service, Amazon Machine Learning, and added support for the SDK shared config file.
+Release: Amazon Machine Learning on 2016-08-02
+This release of Amazon Machine Learning (Amazon ML) adds new metrics for Amazon ML objects.
+Release: AWS Mobile SDK for iOS 2.4.6
+Various bug fixes and enhancements in SDK Core, Amazon Cognito Identity Provider, AWSS3 Transfer Utility, Amazon Mobile Analytics and Amazon SNS
+AWS SDK for Java 1.11.22
+This release includes service updates to AWS Directory Service, Amazon Elasticsearch Service and Amazon EC2.
+Release: AWS SDK for Go v1.2.10
+This restores documentation for Amazon Route 53 Domains that was removed in v1.2.9
+Release: AWS SDK for Android 2.3.0
+Cognito User pools is now GA
+Release: AWS SDK for Go v.1.2.9
+This release updates the API for Amazon Elasticsearch Service, Amazon API Gateway, Amazon Route 53 Domains, AWS Directory Service, Amazon Elastic Compute Cloud, and Amazon Cognito Identity Provider
+Release: AWS CodeCommit on 2016-07-28
+This update of AWS CodeCommit supports browsing the commit history of a repository from the console.
+Release: Amazon Elasticsearch Service on 2016-07-27
+This is a feature update for Amazon Elasticsearch Service.
+Latest Version: 2015-01-01
+Release: AWS SDK for Android 2.2.22
+This release fixes missing SES APIs
+Release: Amazon RDS on 2016-07-27
+This release adds support for native backup and restore for Microsoft SQL Server databases.
+AWS SDK for Java 1.11.21
+This release includes service updates to AWS IoT and AWS Lambda.
+Release: AWS SDK for Go v1.2.8
+This release updates the API for AWS IoT and SDK bug fixes.
+Release: AWS Config on 2016-07-25
+With this release, AWS Config supports enhancements for Config rules.
+Release: AWS SDK for Java 1.11.20
+This release includes service updates to AWS Certificate Manager, AWS Device Farm, AWS Config, and AWS Cloud Formation.
+Release: AWS SDK for Android 2.2.21
+This release includes general service updates, several improvements and bug fixes.
+Release: AWS SDK for Go v1.2.7
+This release updates the API for AWS Config, Amazon Elastic Transcoder, AWS CloudFormation, and AWS Certificate Manager
+Release: AWS Config on 2016-07-21
+With this release, users can record configuration changes to RDS and ACM resources.
+Release: Amazon Machine Learning on 2016-07-20
+This release of Amazon Machine Learning (Amazon ML) adds support for deleting multiple Amazon ML objects.
+Release: Amazon RDS on 2016-07-20
+This release adds support for restoring an Amazon Aurora DB cluster from backup files stored on an Amazon S3 bucket.
+Release: AWS Elastic Beanstalk on 2016-07-18
+PHP platform configurations for AWS Elastic Beanstalk have been updated to version 2.1.4.
+AWS SDK for Java 1.11.19
+This release includes service updates to AWS Device Farm and Amazon Simple Systems Manager (SSM).
+Release: AWS SDK for JavaScript v2.4.8
+This release updates the APIs for Amazon Simple Systems Manager (SSM) and AWS Device Farm.
+Release: Amazon Elastic Transcoder on 2016-07-19
+This release adds support for the WAV audio container.
+Release: AWS SDK for Go v1.2.6
+This release updates the APIs for AWS Device Farm and Amazon Simple Systems Management Service.
+AWS SDK for Java 1.11.17
+This release includes service updates to Amazon S3.
+AWS SDK for Java 1.11.18
+Bug fix for newly introduced builder
+AWS SDK for Java 1.11.16
+This release includes service updates to Amazon Relational Database Service (RDS), AWS Database Migration Service and Amazon EC2 Container Service.
+Release: AWS SDK for Go v1.2.5
+Release: AWS SDK for Go v1.2.5 Amazon Relational Database Service, Amazon EC2 Container Service, and SDK updates.
+Release: AWS SDK for JavaScript v2.4.7
+This release adds the ECS credentials provider, updates default configuration value for maxSockets, and updates APIs for Amazon Relational Database Service (RDS), AWS Database Migration Service (DMS), and Amazon EC2 Container Service (ECS).
+Release: AWS Database Migration Service on 2016-07-13
+This release adds support for data warehouse and application SQL conversions in the AWS Schema Conversion Tool.
+New tutorial for AWS Elastic Beanstalk: High-Availability PHP
+The new tutorial for AWS Elastic Beanstalk shows how to configure an Elastic Beanstalk environment for a high-availability PHP application with an external MySQL database running in Amazon Relational Database Service.
+Release: AWS SDK for Java 1.11.15
+This release introduces a new service: AWS Service Catalog. Also included are service updates to AWS Config and AWS Directory Service.
+Release: AWS SDK for Go v1.2.4
+This release updates the API for AWS Config, AWS ServiceCatalog, AWS OpsWorks, and AWS Directory Service
+Release: AWS SDK for JavaScript v2.4.6
+This release adds support for the AWS Service Catalog API, as well as updates APIs for AWS Config and AWS Directory Service.
+Release: AWS CloudTrail on 2016-07-07
+This release of AWS CloudTrail supports using the CloudTrail console to view resource types that are supported by AWS Config.
+Release: AWS Config on 2016-07-07
+With this release, AWS Config enables you to delete the configuration recorder.
+Release: AWS CodePipeline on 2016-07-06
+This update of AWS CodePipeline adds support for manual approval of actions in a pipeline.
+Release: AWS SDK for Java 1.11.14
+This release includes service updates to AWS CodePipeline.
+Release: AWS SDK for Go v1.2.3
+This release updates the API for AWS CodePipeline, and SDK updates.
+Release: AWS SDK for JavaScript v2.4.5
+This release updates the API for AWS CodePipeline.
+Release: AWS SDK for JavaScript v2.4.4
+This release updates APIs for Amazon Simple Systems Manager (SSM) and AWS Database Migration Service (DMS).
+Release: AWS SDK for Go v1.2.2
+This release updates the API for
+Release: Amazon RDS on 2016-06-30
+This release adds support for restoring an encrypted Amazon Aurora DB cluster from an unencrypted DB cluster snapshot.
+Release: AWS Elastic Beanstalk on 2016-06-26
+Linux-based platforms for AWS Elastic Beanstalk have been updated to version 2.1.3.
+Release: AWS SDK for Java 1.11.12
+This release includes service updates to Amazon Elastic File System, Amazon Simple Notification Service (SNS), AWS IoT, Amazon EC2, and Amazon GameLift.
+Release: AWS SDK for Java 1.11.10
+This release includes service updates to Amazon EC2, Amazon Cognito Identity, and AWS Direct Connect.
+Release: AWS SDK for Java 1.11.11
+This release provides support to a new AWS region, ap-south-1.
+Release: AWS SDK for Java 1.11.9
+This release includes service updates to AWS CodePipeline.
+Release: Amazon Simple Notification Service on 2016-06-28
+With this release, you can use Amazon SNS to send SMS messages worldwide to over 200 countries.
+Release: AWS SDK for JavaScript v2.4.3
+This release updates APIs for Amazon Elastic File System (EFS), Amazon Simple Notification Service (SNS), AWS IoT, Amazon GameLift, Amazon Route 53, and Amazon Elastic Compute Cloud (EC2).
+Release: AWS SDK for Go v1.2.1
+This release updates the API for Amazon GameLift, and SDK bug fix.
+Release: Amazon ElastiCache on June 27, 2016
+This release of Amazon ElastiCache adds support for Asia Pacific (Mumbai) Region.
+Release: AWS Mobile SDK for iOS 2.4.5
+Support for new AWS region Asia Pacific (Mumbai) region
+Release: AWS Elastic Beanstalk Service Update on 2016-06-27
+AWS Elastic Beanstalk is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon Glacier on 2016-06-27
+Amazon Glacier is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon S3 on 2016-06-27
+This release introduces the Asia Pacific (Mumbai) Region.
+Release: AWS CloudTrail on 2016-06-27
+This release of AWS CloudTrail includes support for the Asia Pacific (Mumbai) Region.
+Release: AWS SDK for Android 2.2.20
+This release adds support for new AWS region Asia Pacific (Mumbai) region. It also includes several improvements and bug fixes.
+Release: AWS SDK for JavaScript v2.4.2
+This release updates the APIs for Amazon Cognito Identity, Amazon Elastic Compute Cloud (EC2) and AWS Direct Connect.
+Release: AWS SDK for Go v1.2.0
+This release Updates the API for Amazon Elastic Compute Cloud, AWS Direct Connect, and adds a public AWS V4 request signer utility.
+Release: AWS Mobile SDK for iOS 2.4.4
+The SDK now has SAML support for Amazon Cognito Federated Identities.
+Release: AWS SDK for Android 2.2.19
+This release adds support for SAML role resolution of Amazon Cognito Identity. It also includes other improvements and bug fixes.
+Release: AWS CodePipeline on 2016-06-23
+This update of AWS CodePipeline adds support for one additional AWS region: EU (Ireland).
+Release: Amazon Machine Learning on 2016-06-23
+This release of Amazon Machine Learning (Amazon ML) adds console support for tagging Amazon ML objects.
+Release: AWS CodePipeline on 2016-06-22
+This update of AWS CodePipeline introduces support for retrying a failed action or a group of parallel failed actions in a stage.
+Release: AWS Elastic Beanstalk on 2016-06-21
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Go v1.1.36
+This release updates the API for Amazon Elastic Compute Cloud and AWS CodePipeline
+Release: AWS SDK for JavaScript v2.4.1
+This release updates the API for AWS CodePipeline.
+Release: Amazon RDS on 2016-06-17
+This release adds the April 2016 Oracle Database Patch Set Update (PSU).
+Release: AWS Snowball on 2016-06-16
+Reorganized documentation for AWS Snowball
+Release: AWS SDK for Java 1.11.8
+This release includes service updates to Amazon Relational Database Service (RDS), AWS CloudTrail and Amazon Simple Email Service (SES).
+AWS SDK for Java 1.11.7
+This release includes service updates to Amazon Machine Learning, AWS IoT and Amazon DynamoDB.
+Release: AWS CodeDeploy on 2016-06-15
+This update of AWS CodeDeploy adds support for one additional AWS region: Asia Pacific (Seoul).
+Release: Amazon RDS on 2016-06-15
+This release of Amazon Relational Database Service (Amazon RDS) adds support for PostgreSQL cross-region Read Replicas
+Release: AWS Command Line Interface 1.10.38
+This release updates commands for AWS Certificate Manager, Amazon Simple Email Service, Amazon Relational Database Service, and AWS CloudTrail.
+Release: AWS SDK for JavaScript v2.4.0
+This release updates the APIs for Amazon Relational Database Service (RDS) and Amazon Simple Email Service (SES).
+Release: AWS Elastic Beanstalk Service Update on 2016-06-14
+AWS Elastic Beanstalk has been updated with bug fixes and improved CloudTrail metrics.
+Release: AWS SDK for Go v1.1.35
+This release updates the API for Amazon Relational Database Service, AWS CloudTrail, and Amazon Simple Email Service
+Release: Amazon Simple Email Service on 2016-06-14
+This release adds support for the inclusion of the original email headers in feedback notifications.
+Release: AWS SDK for JavaScript v2.3.19
+This release updates APIs for Amazon Simple Storage Service (S3).
+Release: Amazon RDS on 2016-06-09
+This release adds support for Multi-AZ Deployments Using SQL Server Mirroring in additional regions.
+Release: AWS SDK for Go v1.1.34
+This release fixes an issue in the SDK service model.
+Release: AWS SDK for JavaScript v2.3.18
+This release updates APIs for AWS IoT, Amazon Machine Learning, Amazon Elastic Cloud Compute (EC2), Amazon DynamoDB Streams, Amazon CloudWatch.
+Release: AWS SDK for Go v1.1.33
+This release updates the API for Amazon CloudWatch, Amazon DynamoDB Streams, Amazon Elastic Compute Cloud, Amazon Machine Learning, and AWS IoT
+Release: Amazon Machine Learning on 2016-06-07
+This release of Amazon Machine Learning (Amazon ML) adds API support for tagging Amazon ML objects.
+AWS SDK for Java 1.11.6
+This release includes service updates to Amazon EC2.
+Release: AWS Command Line Interface 1.10.35
+This release updates commands for Amazon Elastic Compute Cloud and Application Auto Scaling.
+Release: AWS SDK for Android 2.2.18
+This release removes a custom TrustManager implementation to comply with new Google Play Store submission verification.
+Release: AWS SDK for Go v1.1.32
+This release updates the API for Amazon Elastic Compute Cloud
+Release: AWS SDK for JavaScript v2.3.17
+This release updates the API for Amazon Elastic Cloud Compute (EC2).
+AWS SDK for Ruby v2.3.10
+AWS SDK for Ruby v2.3.10
+Release: AWS CodePipeline on 2016-06-02
+This update of AWS CodePipeline adds support for AWS OpsWorks.
+Release: Amazon RDS on 2016-06-01
+This release adds support for MariaDB version 10.1.
+Release: AWS Mobile SDK for iOS 2.4.3
+AWSS3TransferUtility now supports Amazon S3 Transfer Acceleration. This release also contains bug fix for error handling in AWSS3TransferUtility.
+Release: Amazon RDS on 2016-05-27
+This release adds support Enhanced Monitoring on Oracle DB instances.
+Release: Amazon ElastiCache on 2016-05-26
+This release of Amazon ElastiCache adds support for exporting a snapshot to an Amazon S3 bucket.
+This release also includes parameter management changes.
+AWS SDK for Java 1.11.5
+This release includes service updates to Amazon ElastiCache.
+Release: AWS SDK for JavaScript v2.3.16
+This release updates APIs for Amazon ElastiCache.
+AWS SDK for Ruby 2.3.9
+This release includes an API update for Amazon ElastiCache.
+Release: AWS SDK for Go v1.1.31
+This release updates the APIs for Amazon ElastiCache.
+Release: AWS Config on 2016-05-26
+With this release, AWS Config is available in the AWS GovCloud (US) region.
+Release: AWS Elastic Beanstalk on 2016-05-25
+New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Java 1.11.4
+This release includes service updates to Amazon Relational Database Service (RDS) and Amazon EC2.
+Release: AWS Command Line Interface 1.10.33
+This release updates commands for Amazon Relational Database Service and Amazon Elastic Compute Cloud, and fixes one or more issues.
+Release: AWS SDK for JavaScript v2.3.15
+This release updates the APIs for Amazon Elastic Cloud Compute (EC2) and Amazon Relational Database Service (RDS).
+Release: Amazon Elastic Transcoder on 2016-05-24
+This release adds support for the MPEG-DASH playlist format.
+AWS SDK for Ruby 2.3.8
+This release includes API updates for Amazon Elastic Compute Cloud and Amazon Relational Database Service.
+Release: AWS SDK for Go v1.1.30
+This release updates the APIs for Amazon Relational Database Service and Amazon Elastic Compute Cloud.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-23
+AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Elastic Beanstalk Console Update on 2016-05-23
+The management console has been updated to support ACM certificates.
+Release: AWS SDK for Android 2.2.17
+This release adds support for Amazon S3 transfer acceleration, cross-region replication and list objects v2 . It also includes other improvements and bug fixes.
+AWS SDK for Java 1.11.3
+This release includes service updates to Amazon EC2 Container Service, Amazon Kinesis Firehose, and Amazon EC2.
+Release: AWS SDK for Go v1.1.29
+This release updates the API for Amazon Redshift and Amazon EC2 Container Service
+AWS SDK for Ruby 2.3.7
+This release includes API updates for Amazon Kinesis Firehose and Amazon EC2 Container Service.
+Release: AWS SDK for JavaScript v2.3.14
+This release updates the APIs for Amazon EC2 Container Service (ECS) and Amazon Kinesis Firehose.
+Release: AWS Database Migration Service on 2016-05-19
+This release adds support for SSL in the AWS Schema Conversion Tool.
+AWS SDK for Java 1.11.2
+This release includes a new service, Application Auto Scaling.
+AWS SDK for Ruby 2.3.6
+This release includes initial API support for Application Auto Scaling.
+Release: AWS SDK for JavaScript v2.3.13
+This release adds support for the Application Auto Scaling API.
+Release: AWS SDK for Go v1.1.28
+This release updates the API for Application Auto Scaling
+Release: Amazon Elasticsearch Service on 2016-05-18
+This is a feature update for Amazon Elasticsearch Service.
+Release: Amazon RDS on 2016-05-18
+This release adds support for sharing Amazon Aurora DB cluster snapshots.
+Release: AWS Command Line Interface 1.10.30
+This release fixes a regression with Amazon EC2 commands.
+AWS SDK for Java 1.11.1
+This release includes support for the new AWS Application Discovery Service and service updates to Amazon WorkSpaces.
+Release: AWS SDK for JavaScript v2.3.12
+This release updates the APIs for Amazon WorkSpaces and AWS Application Discovery Service.
+Release: AWS SDK for Go v1.1.27
+This release updates the API for Amazon DynamoDB, AWS Application Discovery Service, and Amazon WorkSpaces
+AWS SDK for Ruby 2.3.5
+This release includes API updates for AWS Application Discovery Service, and Amazon WorkSpaces.
+Release: AWS Config on 2016-05-13
+With this release, AWS Config makes several improvements to Config Rules, including an improved REQUIRED_TAGS rule, a new rule for checking whether MFA is enabled, and console improvements.
+AWS SDK for Java 1.11.0
+This release includes support for the new AWS Application Discovery Service and service updates to Amazon EC2, AWS CloudFormation and Amazon Simple Systems Management Service. This release also includes a major version upgrade for AWS SDK for Java, and drops support for deprecated Amazon CloudSearch and Amazon CloudFront APIs.
+Release: AWS Elastic Beanstalk on 2016-05-13
+PHP and Ruby platforms for AWS Elastic Beanstalk have been updated to version 2.1.2.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-12
+AWS Elastic Beanstalk has been updated with support for new EBS volume types and bug fixes.
+Release: AWS SDK for Go v1.1.26
+This release updates the API for AWS CloudFormation, Amazon Elastic Compute Cloud, Amazon Simple Systems Management Service, and AWS Application Discovery Service.
+Release: AWS SDK for JavaScript v2.3.11
+This release adds support for the AWS Application Discovery Service, and updates the APIs for Amazon Elastic Cloud Compute (EC2), Amazon Simple Systems manager (SSM) and AWS CloudFormation.
+Release: AWS SDK for Android 2.2.16
+This release adds support of MQTT over web socket for AWS IoT. It also includes other improvements and bug fixes.
+Release: AWS Command Line Interface 1.10.27
+This release updates commands for AWS Storage Gateway and Amazon Elastic MapReduce.
