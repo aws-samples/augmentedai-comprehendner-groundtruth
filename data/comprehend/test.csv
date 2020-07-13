@@ -1,1 +1,181 @@
-
+Release: Amazon Elastic Transcoder on 2016-09-20 This is a feature release for Amazon Elastic Transcoder.
+Release: AWS Mobile SDK for iOS 249 Adds support for custom endpoints; fixes Amazon S3 bug which disabled usage with CocoaPods Release: Amazon RDS on 2016-09-19 This release adds support for local time zones on Microsoft SQL Server DB instances.
+AWS SDK for Java 11135 This release includes service updates to Amazon Relational Database Service and AWS IoT.
+AWS SDK for Java 11134 This release includes service updates to AWS Service Catalog.
+Release: AWS CodeDeploy on 2016-09-15 This update of AWS CodeDeploy adds integration with Amazon CloudWatch alarms and introduces support for automatically rolling back a deployment when there is a failure or other specified conditions are met.
+Release: Amazon Redshift on 2016-09-15 This release of Amazon Redshift introduces Enhanced VPC Routing.
+Release: AWS SDK for Go v1410 This release updates the API for AWS IoT and Amazon Relational Database Service Release: AWS CodeCommit on 2016-09-14 This update of AWS CodeCommit supports viewing a graph of commits from the console.
+Release: AWS Database Migration Service on 2016-09-14 This release adds support for change data capture for Amazon RDS PostgreSQL DB instances as a source.
+Release: Amazon RDS on 2016-09-14 This release adds support for PostgreSQL versions 954, 949, and 9314, and also support for PostgreSQL logical replication and event triggers.
+Release: AWS SDK for Go v149 This release updates the API for AWS Service Catalog, and Amazon Elastic Compute Cloud.
+Release: AWS Mobile SDK for iOS 248 Adds Cognito Identity Provider custom authentication handlers and general SDK improvements.
+Release: AWS CodeDeploy on 2016-09-09 This update of AWS CodeDeploy adds integration with AWS CloudWatch Events.
+Release: AWS SDK for Android 231 The release adds support for generic invoker for API Gateway and fixes a bug related to StandardCharset Release: AWS SDK for Java 11133 This release includes service updates to Amazon CloudFront.
+Release: Amazon RDS on 2016-09-08 This release adds the reader endpoint to Amazon Aurora DB clusters.
+Release: AWS SDK for Go v148 This release updates the API for Amazon CloudFront Release: AWS CodePipeline on 2016-09-08 This update of AWS CodePipeline adds support for viewing details about code changes currently flowing through your software release pipeline, such as commit IDs, check-in comments, and time since check-in.
+Release: Amazon RDS on 2016-09-06 This release adds support for getting the status of possible source regions for Read Replicas or DB snapshots by using the Amazon RDS API.
+Release: AWS SDK for Java 11132 This release includes service updates to AWS CodePipeline, Amazon Relational Database Service (RDS) and Amazon Simple Notification Service (SNS).
+Release: AWS SDK for Go v147 This release updates the APIs for Amazon Simple Notification Service, Amazon Relational Database Service, and SDK bug fixes.
+New tutorial for AWS Elastic Beanstalk: Node.
+js with DynamoDB The new tutorial for AWS Elastic Beanstalk shows how use DynamoDB in a Node.
+js application with the AWS SDK for JavaScript in Node.
+js, and how to configure an application to either create a new DynamoDB table or use an existing one.
+Release: AWS Elastic Beanstalk on 2016-09-06 The PHP platform for AWS Elastic Beanstalk has been updated to version 217.
+Release: AWS Config on 2016-09-06 With this release, you can view API activity logged by AWS CloudTrail in the AWS Config timeline.
+AWS SDK for Java 11131 This release contains new features for Application Auto Scaling, Cognito Identity Provider, Amazon GameLift, and Amazon RDS.
+Release: AWS SDK for Go v146 This release updates the API for Amazon GameLift, Amazon Cognito Identity Provider, Application Auto Scaling Release: Amazon RDS on 2016-09-01 This release adds support for the Oracle Enterprise Manager Cloud Control.
+Release: Amazon GameLift on 2016-09-01 This release adds support for Linux game servers.
+AWS Storage Gateway Console Redesign This release introduces a new and simplified design for the AWS Storage Gateway Management Console Release: Amazon Simple Queue Service on 2016-08-31 Amazon Simple Queue Service (Amazon SQS) now allows you to use the ApproximateAgeOfOldestMessage CloudWatch metric to find the approximate age of the oldest non-deleted message in the queue.
+AWS SDK for Ruby Release Notes on GitHub Please see our GitHub changelog for release notes related to each SDK update.
+AWS SDK for Java 11130 This release includes service updates to Amazon Route 53, Amazon CloudFront, AWS CodePipeline and AWS Lambda.
+Release: AWS SDK for Go v145 This release updates the API for Amazon CloudFront, Amazon Route 53, Amazon EC2 Container Service, and AWS CodePipeline Release: AWS Elastic Beanstalk Service Update on 2016-08-30 AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Lambda on 2016-08-29 This release introduces the Asia Pacific (Seoul) Region.
+Release: AWS Elastic Beanstalk on 2016-08-24 Tomcat platform configurations for AWS Elastic Beanstalk have been updated to version 220.
+AWS SDK for Java 11129 This release includes service updates to Amazon Relational Database Service (RDS).
+Release: Amazon RDS on 2016-08-23 This release adds support to get an Amazon Resource Name (ARN) for a resource.
+Release: AWS Elastic Beanstalk on 2016-08-23 New versions of AWS Elastic Beanstalk's Windows Server platforms are available with support for running multiple applications at different paths, .
+NET Core applications, and the latest security updates.
+Release: EB CLI 378 on 2016-08-23 The Elastic Beanstalk Command Line Interface (EB CLI) has been updated with support for application load balancers.
+Release: AWS Elastic Beanstalk Service Update on 2016-08-23 AWS Elastic Beanstalk has been updated with support for application load balancers.
+Release: AWS SDK for Go v144 This release updates the API for Amazon Relational Database Service Release: Amazon RDS on 2016-08-19 This release increases the number of tags for each resource from 10 to 50.
+AWS SDK for Java 11128 This release includes service updates to Amazon EC2 and Amazon WorkSpaces.
+Release: AWS Billing and Cost Management on 2016-08-18 This is a feature update for AWS Billing and Cost Management.
+Release: AWS SDK for Go v143 This release updates the API for Amazon WorkSpaces and Amazon Elastic Compute Cloud Release: AWS Config on 2016-08-18 With this release, AWS Config expands Config rules support to several AWS regions.
+Release: AWS Storage Gateway on 2016-17-08 This release introduces AWS Storage Gateway compatibility with Veeam Backup & Replication V9 Update 2 or later AWS SDK for Java 11127 This release includes service updates to Amazon API Gateway, AWS Certificate Manager and Amazon EC2 Container Service.
+Includes region updates to AWS Database Migration Service and Amazon Inspector.
+Release: AWS SDK for Go v142 This release updates the API for Amazon API Gateway, AWS Certificate Manager, Amazon EC2 Container Service, AWS Database Migration Service, and Amazon Inspector AWS SDK for Java 11126 This release includes three new services, Amazon Kinesis Analytics, AWS Snowball, and Elastic Load Balancing V2 and several other API updates of existing services.
+Release: AWS SDK for Go v141 This release updates the API for Elastic Load Balancing, Amazon Snowball, Amazon Kinesis Analytics, AWS Key Management Service, and Amazon EC2 Container Service AWS SDK for Java 11125 This release includes service updates for Marketplace Commerce Analytics, Amazon Cloudfront, and EC2 Container Registry.
+New utilities added to wait for resources to transition to desired state.
+Release: AWS SDK for Go v140 This release updates the APIs for Amazon CloudFront, AWS Marketplace Commerce Analytics, Amazon EC2 Container Registry, and adds a Crypto client for Amazon Simple Storage Service.
+Release: Amazon Elastic Transcoder on 2016-08-09 This release provides support to a new AWS region, ap-southeast-2.
+Release: AWS Elastic Beanstalk on 2016-08-08 PHP 7 is now available on AWS Elastic Beanstalk.
+All PHP platform configurations have been updated with new software versions and support for additional instance types.
+Release: AWS Mobile SDK for iOS 247 Fix bug which caused integration issues between User pools and Cognito identity Release: Amazon RDS on 2016-08-05 This release adds support for the License Included model for Oracle Standard Edition Two, and for changing your licensing model.
+Release: Amazon GameLift on 2016-08-04 This release adds support for game session search, customized health checks, and multiple concurrent processes Release: AWS SDK for Java 11124 This release includes service updates to Amazon GameLift, AWS Lambda, and Amazon Relational Database Service (RDS).
+Release: AWS SDK for Go v131 This release updates the API for Amazon Relational Database Service, AWS Lambda, and Amazon GameLift Release: Amazon RDS on 2016-08-04 This release adds support for easily changing the VPC of a DB instance.
+Release: Amazon ElastiCache on 2016-08-03 This release of Amazon ElastiCache adds support for M4 node types.
+AWS SDK for Java 11123 Service updates for EMR, CloudWatch Logs, Amazon Machine Learning, Route53 Domains, RDS, and IoT.
+Release: AWS SDK for Go v130 This release updates the API for Amazon Route 53 Domains, Amazon Relational Database Service, Amazon Machine Learning, and added support for the SDK shared config file.
+Release: Amazon Machine Learning on 2016-08-02 This release of Amazon Machine Learning (Amazon ML) adds new metrics for Amazon ML objects.
+Release: AWS Mobile SDK for iOS 246 Various bug fixes and enhancements in SDK Core, Amazon Cognito Identity Provider, AWSS3 Transfer Utility, Amazon Mobile Analytics and Amazon SNS AWS SDK for Java 11122 This release includes service updates to AWS Directory Service, Amazon Elasticsearch Service and Amazon EC2.
+Release: AWS SDK for Go v1210 This restores documentation for Amazon Route 53 Domains that was removed in v129 Release: AWS SDK for Android 230 Cognito User pools is now GA Release: AWS SDK for Go v.129 This release updates the API for Amazon Elasticsearch Service, Amazon API Gateway, Amazon Route 53 Domains, AWS Directory Service, Amazon Elastic Compute Cloud, and Amazon Cognito Identity Provider Release: AWS CodeCommit on 2016-07-28 This update of AWS CodeCommit supports browsing the commit history of a repository from the console.
+Release: Amazon Elasticsearch Service on 2016-07-27 This is a feature update for Amazon Elasticsearch Service.
+Latest Version: 2015-01-01 Release: AWS SDK for Android 2222 This release fixes missing SES APIs Release: Amazon RDS on 2016-07-27 This release adds support for native backup and restore for Microsoft SQL Server databases.
+AWS SDK for Java 11121 This release includes service updates to AWS IoT and AWS Lambda.
+Release: AWS SDK for Go v128 This release updates the API for AWS IoT and SDK bug fixes.
+Release: AWS Config on 2016-07-25 With this release, AWS Config supports enhancements for Config rules.
+Release: AWS SDK for Java 11120 This release includes service updates to AWS Certificate Manager, AWS Device Farm, AWS Config, and AWS Cloud Formation.
+Release: AWS SDK for Android 2221 This release includes general service updates, several improvements and bug fixes.
+Release: AWS SDK for Go v127 This release updates the API for AWS Config, Amazon Elastic Transcoder, AWS CloudFormation, and AWS Certificate Manager Release: AWS Config on 2016-07-21 With this release, users can record configuration changes to RDS and ACM resources.
+Release: Amazon Machine Learning on 2016-07-20 This release of Amazon Machine Learning (Amazon ML) adds support for deleting multiple Amazon ML objects.
+Release: Amazon RDS on 2016-07-20 This release adds support for restoring an Amazon Aurora DB cluster from backup files stored on an Amazon S3 bucket.
+Release: AWS Elastic Beanstalk on 2016-07-18 PHP platform configurations for AWS Elastic Beanstalk have been updated to version 214.
+AWS SDK for Java 11119 This release includes service updates to AWS Device Farm and Amazon Simple Systems Manager (SSM).
+Release: AWS SDK for JavaScript v248 This release updates the APIs for Amazon Simple Systems Manager (SSM) and AWS Device Farm.
+Release: Amazon Elastic Transcoder on 2016-07-19 This release adds support for the WAV audio container.
+Release: AWS SDK for Go v126 This release updates the APIs for AWS Device Farm and Amazon Simple Systems Management Service.
+AWS SDK for Java 11117 This release includes service updates to Amazon S3.
+AWS SDK for Java 11118 Bug fix for newly introduced builder AWS SDK for Java 11116 This release includes service updates to Amazon Relational Database Service (RDS), AWS Database Migration Service and Amazon EC2 Container Service.
+Release: AWS SDK for Go v125 Release: AWS SDK for Go v125 Amazon Relational Database Service, Amazon EC2 Container Service, and SDK updates.
+Release: AWS SDK for JavaScript v247 This release adds the ECS credentials provider, updates default configuration value for maxSockets, and updates APIs for Amazon Relational Database Service (RDS), AWS Database Migration Service (DMS), and Amazon EC2 Container Service (ECS).
+Release: AWS Database Migration Service on 2016-07-13 This release adds support for data warehouse and application SQL conversions in the AWS Schema Conversion Tool.
+New tutorial for AWS Elastic Beanstalk: High-Availability PHP The new tutorial for AWS Elastic Beanstalk shows how to configure an Elastic Beanstalk environment for a high-availability PHP application with an external MySQL database running in Amazon Relational Database Service.
+Release: AWS SDK for Java 11115 This release introduces a new service: AWS Service Catalog.
+Also included are service updates to AWS Config and AWS Directory Service.
+Release: AWS SDK for Go v124 This release updates the API for AWS Config, AWS ServiceCatalog, AWS OpsWorks, and AWS Directory Service Release: AWS SDK for JavaScript v246 This release adds support for the AWS Service Catalog API, as well as updates APIs for AWS Config and AWS Directory Service.
+Release: AWS CloudTrail on 2016-07-07 This release of AWS CloudTrail supports using the CloudTrail console to view resource types that are supported by AWS Config.
+Release: AWS Config on 2016-07-07 With this release, AWS Config enables you to delete the configuration recorder.
+Release: AWS CodePipeline on 2016-07-06 This update of AWS CodePipeline adds support for manual approval of actions in a pipeline.
+Release: AWS SDK for Java 11114 This release includes service updates to AWS CodePipeline.
+Release: AWS SDK for Go v123 This release updates the API for AWS CodePipeline, and SDK updates.
+Release: AWS SDK for JavaScript v245 This release updates the API for AWS CodePipeline.
+Release: AWS SDK for JavaScript v244 This release updates APIs for Amazon Simple Systems Manager (SSM) and AWS Database Migration Service (DMS).
+Release: AWS SDK for Go v122 This release updates the API for Release: Amazon RDS on 2016-06-30 This release adds support for restoring an encrypted Amazon Aurora DB cluster from an unencrypted DB cluster snapshot.
+Release: AWS Elastic Beanstalk on 2016-06-26 Linux-based platforms for AWS Elastic Beanstalk have been updated to version 213.
+Release: AWS SDK for Java 11112 This release includes service updates to Amazon Elastic File System, Amazon Simple Notification Service (SNS), AWS IoT, Amazon EC2, and Amazon GameLift.
+Release: AWS SDK for Java 11110 This release includes service updates to Amazon EC2, Amazon Cognito Identity, and AWS Direct Connect.
+Release: AWS SDK for Java 11111 This release provides support to a new AWS region, ap-south-1.
+Release: AWS SDK for Java 1119 This release includes service updates to AWS CodePipeline.
+Release: Amazon Simple Notification Service on 2016-06-28 With this release, you can use Amazon SNS to send SMS messages worldwide to over 200 countries.
+Release: AWS SDK for JavaScript v243 This release updates APIs for Amazon Elastic File System (EFS), Amazon Simple Notification Service (SNS), AWS IoT, Amazon GameLift, Amazon Route 53, and Amazon Elastic Compute Cloud (EC2).
+Release: AWS SDK for Go v121 This release updates the API for Amazon GameLift, and SDK bug fix.
+Release: Amazon ElastiCache on June 27, 2016 This release of Amazon ElastiCache adds support for Asia Pacific (Mumbai) Region.
+Release: AWS Mobile SDK for iOS 245 Support for new AWS region Asia Pacific (Mumbai) region Release: AWS Elastic Beanstalk Service Update on 2016-06-27 AWS Elastic Beanstalk is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon Glacier on 2016-06-27 Amazon Glacier is now available in the Asia Pacific (Mumbai) region.
+Release: Amazon S3 on 2016-06-27 This release introduces the Asia Pacific (Mumbai) Region.
+Release: AWS CloudTrail on 2016-06-27 This release of AWS CloudTrail includes support for the Asia Pacific (Mumbai) Region.
+Release: AWS SDK for Android 2220 This release adds support for new AWS region Asia Pacific (Mumbai) region.
+It also includes several improvements and bug fixes.
+Release: AWS SDK for JavaScript v242 This release updates the APIs for Amazon Cognito Identity, Amazon Elastic Compute Cloud (EC2) and AWS Direct Connect.
+Release: AWS SDK for Go v120 This release Updates the API for Amazon Elastic Compute Cloud, AWS Direct Connect, and adds a public AWS V4 request signer utility.
+Release: AWS Mobile SDK for iOS 244 The SDK now has SAML support for Amazon Cognito Federated Identities.
+Release: AWS SDK for Android 2219 This release adds support for SAML role resolution of Amazon Cognito Identity.
+It also includes other improvements and bug fixes.
+Release: AWS CodePipeline on 2016-06-23 This update of AWS CodePipeline adds support for one additional AWS region: EU (Ireland).
+Release: Amazon Machine Learning on 2016-06-23 This release of Amazon Machine Learning (Amazon ML) adds console support for tagging Amazon ML objects.
+Release: AWS CodePipeline on 2016-06-22 This update of AWS CodePipeline introduces support for retrying a failed action or a group of parallel failed actions in a stage.
+Release: AWS Elastic Beanstalk on 2016-06-21 New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Go v1136 This release updates the API for Amazon Elastic Compute Cloud and AWS CodePipeline Release: AWS SDK for JavaScript v241 This release updates the API for AWS CodePipeline.
+Release: Amazon RDS on 2016-06-17 This release adds the April 2016 Oracle Database Patch Set Update (PSU).
+Release: AWS Snowball on 2016-06-16 Reorganized documentation for AWS Snowball Release: AWS SDK for Java 1118 This release includes service updates to Amazon Relational Database Service (RDS), AWS CloudTrail and Amazon Simple Email Service (SES).
+AWS SDK for Java 1117 This release includes service updates to Amazon Machine Learning, AWS IoT and Amazon DynamoDB.
+Release: AWS CodeDeploy on 2016-06-15 This update of AWS CodeDeploy adds support for one additional AWS region: Asia Pacific (Seoul).
+Release: Amazon RDS on 2016-06-15 This release of Amazon Relational Database Service (Amazon RDS) adds support for PostgreSQL cross-region Read Replicas Release: AWS Command Line Interface 11038 This release updates commands for AWS Certificate Manager, Amazon Simple Email Service, Amazon Relational Database Service, and AWS CloudTrail.
+Release: AWS SDK for JavaScript v240 This release updates the APIs for Amazon Relational Database Service (RDS) and Amazon Simple Email Service (SES).
+Release: AWS Elastic Beanstalk Service Update on 2016-06-14 AWS Elastic Beanstalk has been updated with bug fixes and improved CloudTrail metrics.
+Release: AWS SDK for Go v1135 This release updates the API for Amazon Relational Database Service, AWS CloudTrail, and Amazon Simple Email Service Release: Amazon Simple Email Service on 2016-06-14 This release adds support for the inclusion of the original email headers in feedback notifications.
+Release: AWS SDK for JavaScript v2319 This release updates APIs for Amazon Simple Storage Service (S3).
+Release: Amazon RDS on 2016-06-09 This release adds support for Multi-AZ Deployments Using SQL Server Mirroring in additional regions.
+Release: AWS SDK for Go v1134 This release fixes an issue in the SDK service model.
+Release: AWS SDK for JavaScript v2318 This release updates APIs for AWS IoT, Amazon Machine Learning, Amazon Elastic Cloud Compute (EC2), Amazon DynamoDB Streams, Amazon CloudWatch.
+Release: AWS SDK for Go v1133 This release updates the API for Amazon CloudWatch, Amazon DynamoDB Streams, Amazon Elastic Compute Cloud, Amazon Machine Learning, and AWS IoT Release: Amazon Machine Learning on 2016-06-07 This release of Amazon Machine Learning (Amazon ML) adds API support for tagging Amazon ML objects.
+AWS SDK for Java 1116 This release includes service updates to Amazon EC2.
+Release: AWS Command Line Interface 11035 This release updates commands for Amazon Elastic Compute Cloud and Application Auto Scaling.
+Release: AWS SDK for Android 2218 This release removes a custom TrustManager implementation to comply with new Google Play Store submission verification.
+Release: AWS SDK for Go v1132 This release updates the API for Amazon Elastic Compute Cloud Release: AWS SDK for JavaScript v2317 This release updates the API for Amazon Elastic Cloud Compute (EC2).
+AWS SDK for Ruby v2310 AWS SDK for Ruby v2310 Release: AWS CodePipeline on 2016-06-02 This update of AWS CodePipeline adds support for AWS OpsWorks.
+Release: Amazon RDS on 2016-06-01 This release adds support for MariaDB version 101.
+Release: AWS Mobile SDK for iOS 243 AWSS3TransferUtility now supports Amazon S3 Transfer Acceleration.
+This release also contains bug fix for error handling in AWSS3TransferUtility.
+Release: Amazon RDS on 2016-05-27 This release adds support Enhanced Monitoring on Oracle DB instances.
+Release: Amazon ElastiCache on 2016-05-26 This release of Amazon ElastiCache adds support for exporting a snapshot to an Amazon S3 bucket.
+This release also includes parameter management changes.
+AWS SDK for Java 1115 This release includes service updates to Amazon ElastiCache.
+Release: AWS SDK for JavaScript v2316 This release updates APIs for Amazon ElastiCache.
+AWS SDK for Ruby 239 This release includes an API update for Amazon ElastiCache.
+Release: AWS SDK for Go v1131 This release updates the APIs for Amazon ElastiCache.
+Release: AWS Config on 2016-05-26 With this release, AWS Config is available in the AWS GovCloud (US) region.
+Release: AWS Elastic Beanstalk on 2016-05-25 New versions of AWS Elastic Beanstalk's Windows Server platforms are available.
+Release: AWS SDK for Java 1114 This release includes service updates to Amazon Relational Database Service (RDS) and Amazon EC2.
+Release: AWS Command Line Interface 11033 This release updates commands for Amazon Relational Database Service and Amazon Elastic Compute Cloud, and fixes one or more issues.
+Release: AWS SDK for JavaScript v2315 This release updates the APIs for Amazon Elastic Cloud Compute (EC2) and Amazon Relational Database Service (RDS).
+Release: Amazon Elastic Transcoder on 2016-05-24 This release adds support for the MPEG-DASH playlist format.
+AWS SDK for Ruby 238 This release includes API updates for Amazon Elastic Compute Cloud and Amazon Relational Database Service.
+Release: AWS SDK for Go v1130 This release updates the APIs for Amazon Relational Database Service and Amazon Elastic Compute Cloud.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-23 AWS Elastic Beanstalk has been updated with bug fixes.
+Release: AWS Elastic Beanstalk Console Update on 2016-05-23 The management console has been updated to support ACM certificates.
+Release: AWS SDK for Android 2217 This release adds support for Amazon S3 transfer acceleration, cross-region replication and list objects v2 .
+It also includes other improvements and bug fixes.
+AWS SDK for Java 1113 This release includes service updates to Amazon EC2 Container Service, Amazon Kinesis Firehose, and Amazon EC2.
+Release: AWS SDK for Go v1129 This release updates the API for Amazon Redshift and Amazon EC2 Container Service AWS SDK for Ruby 237 This release includes API updates for Amazon Kinesis Firehose and Amazon EC2 Container Service.
+Release: AWS SDK for JavaScript v2314 This release updates the APIs for Amazon EC2 Container Service (ECS) and Amazon Kinesis Firehose.
+Release: AWS Database Migration Service on 2016-05-19 This release adds support for SSL in the AWS Schema Conversion Tool.
+AWS SDK for Java 1112 This release includes a new service, Application Auto Scaling.
+AWS SDK for Ruby 236 This release includes initial API support for Application Auto Scaling.
+Release: AWS SDK for JavaScript v2313 This release adds support for the Application Auto Scaling API.
+Release: AWS SDK for Go v1128 This release updates the API for Application Auto Scaling Release: Amazon Elasticsearch Service on 2016-05-18 This is a feature update for Amazon Elasticsearch Service.
+Release: Amazon RDS on 2016-05-18 This release adds support for sharing Amazon Aurora DB cluster snapshots.
+Release: AWS Command Line Interface 11030 This release fixes a regression with Amazon EC2 commands.
+AWS SDK for Java 1111 This release includes support for the new AWS Application Discovery Service and service updates to Amazon WorkSpaces.
+Release: AWS SDK for JavaScript v2312 This release updates the APIs for Amazon WorkSpaces and AWS Application Discovery Service.
+Release: AWS SDK for Go v1127 This release updates the API for Amazon DynamoDB, AWS Application Discovery Service, and Amazon WorkSpaces AWS SDK for Ruby 235 This release includes API updates for AWS Application Discovery Service, and Amazon WorkSpaces.
+Release: AWS Config on 2016-05-13 With this release, AWS Config makes several improvements to Config Rules, including an improved REQUIRED_TAGS rule, a new rule for checking whether MFA is enabled, and console improvements.
+AWS SDK for Java 1110 This release includes support for the new AWS Application Discovery Service and service updates to Amazon EC2, AWS CloudFormation and Amazon Simple Systems Management Service.
+This release also includes a major version upgrade for AWS SDK for Java, and drops support for deprecated Amazon CloudSearch and Amazon CloudFront APIs.
+Release: AWS Elastic Beanstalk on 2016-05-13 PHP and Ruby platforms for AWS Elastic Beanstalk have been updated to version 212.
+Release: AWS Elastic Beanstalk Service Update on 2016-05-12 AWS Elastic Beanstalk has been updated with support for new EBS volume types and bug fixes.
+Release: AWS SDK for Go v1126 This release updates the API for AWS CloudFormation, Amazon Elastic Compute Cloud, Amazon Simple Systems Management Service, and AWS Application Discovery Service.
+Release: AWS SDK for JavaScript v2311 This release adds support for the AWS Application Discovery Service, and updates the APIs for Amazon Elastic Cloud Compute (EC2), Amazon Simple Systems manager (SSM) and AWS CloudFormation.
+Release: AWS SDK for Android 2216 This release adds support of MQTT over web socket for AWS IoT.
+It also includes other improvements and bug fixes.
+Release: AWS Command Line Interface 11027 This release updates commands for AWS Storage Gateway and Amazon Elastic MapReduce.
